@@ -1,7 +1,7 @@
 // components/Navbar.jsx
 import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, BookOpen, GraduationCap } from 'lucide-react';
+import { Menu, X, GraduationCap } from 'lucide-react';
 
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -28,7 +28,7 @@ const Navbar = () => {
             <div className="container mx-auto px-4">
                 <div className="flex items-center justify-between h-16">
                     {/* Logo */}
-                    <Link to="/vocab-master" className="flex items-center space-x-2">
+                    <Link to="/vocab-master/" className="flex items-center space-x-2">
                         <GraduationCap className="h-8 w-8 text-blue-400" />
                         <span className="text-xl font-bold text-white">VocabMaster</span>
                     </Link>

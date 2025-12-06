@@ -1,0 +1,1079 @@
+[
+  {
+    "id": 1,
+    "word": "Happy",
+    "correct": "Sad",
+    "options": ["Sad", "Joyful", "Excited", "Content"],
+    "hint": "Feeling or showing pleasure or contentment"
+  },
+  {
+    "id": 2,
+    "word": "Beautiful",
+    "correct": "Ugly",
+    "options": ["Ugly", "Gorgeous", "Attractive", "Lovely"],
+    "hint": "Pleasing the senses or mind aesthetically"
+  },
+  {
+    "id": 3,
+    "word": "Big",
+    "correct": "Small",
+    "options": ["Small", "Large", "Huge", "Enormous"],
+    "hint": "Of considerable size or extent"
+  },
+  {
+    "id": 4,
+    "word": "Fast",
+    "correct": "Slow",
+    "options": ["Slow", "Quick", "Rapid", "Swift"],
+    "hint": "Moving or capable of moving at high speed"
+  },
+  {
+    "id": 5,
+    "word": "Hot",
+    "correct": "Cold",
+    "options": ["Cold", "Warm", "Boiling", "Scorching"],
+    "hint": "Having a high degree of heat"
+  },
+  {
+    "id": 6,
+    "word": "Rich",
+    "correct": "Poor",
+    "options": ["Poor", "Wealthy", "Affluent", "Prosperous"],
+    "hint": "Having a great deal of money or assets"
+  },
+  {
+    "id": 7,
+    "word": "Strong",
+    "correct": "Weak",
+    "options": ["Weak", "Powerful", "Robust", "Mighty"],
+    "hint": "Having the power to move heavy weights"
+  },
+  {
+    "id": 8,
+    "word": "Brave",
+    "correct": "Cowardly",
+    "options": ["Cowardly", "Courageous", "Fearless", "Bold"],
+    "hint": "Ready to face and endure danger or pain"
+  },
+  {
+    "id": 9,
+    "word": "Old",
+    "correct": "New",
+    "options": ["New", "Ancient", "Aged", "Mature"],
+    "hint": "Having lived for a long time"
+  },
+  {
+    "id": 10,
+    "word": "Bright",
+    "correct": "Dark",
+    "options": ["Dark", "Shiny", "Luminous", "Radiant"],
+    "hint": "Giving out or reflecting much light"
+  },
+  {
+    "id": 11,
+    "word": "Happy",
+    "correct": "Sad",
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Pleased"
+    ],
+    "hint": "Feeling or showing pleasure or contentment."
+  },
+  {
+    "id": 12,
+    "word": "Tall",
+    "correct": "Short",
+    "options": [
+      "Short",
+      "Lofty",
+      "Broad",
+      "Elevated"
+    ],
+    "hint": "Having a greater than average height."
+  },
+  {
+    "id": 13,
+    "word": "Fast",
+    "correct": "Slow",
+    "options": [
+      "Slow",
+      "Rapid",
+      "Quick",
+      "Swift"
+    ],
+    "hint": "Moving or capable of moving at high speed."
+  },
+  {
+    "id": 14,
+    "word": "Love",
+    "correct": "Hate",
+    "options": [
+      "Hate",
+      "Affection",
+      "Adore",
+      "Appreciate"
+    ],
+    "hint": "An intense feeling of deep affection."
+  },
+  {
+    "id": 15,
+    "word": "Empty",
+    "correct": "Full",
+    "options": [
+      "Full",
+      "Hollow",
+      "Blank",
+      "Vacant"
+    ],
+    "hint": "Containing nothing; not filled or occupied."
+  },
+  {
+    "id": 16,
+    "word": "Absent",
+    "correct": "Present",
+    "options": ["Present", "Late", "Missing", "Unready"],
+    "hint": "Not in a specified place"
+  },
+  {
+    "id": 17,
+    "word": "Accept",
+    "correct": "Refuse",
+    "options": ["Refuse", "Approve", "Deny", "Receive"],
+    "hint": "Consent to receive (something offered)"
+  },
+  {
+    "id": 18,
+    "word": "Ancient",
+    "correct": "Modern",
+    "options": ["Modern", "Old", "Historic", "Future"],
+    "hint": "Belonging to the very distant past"
+  },
+  {
+    "id": 19,
+    "word": "Answer",
+    "correct": "Question",
+    "options": ["Question", "Reply", "Response", "Solve"],
+    "hint": "A thing that is said, written, or done as a reaction to a statement or event"
+  },
+  {
+    "id": 20,
+    "word": "Arrive",
+    "correct": "Depart",
+    "options": ["Depart", "Come", "Leave", "Exit"],
+    "hint": "Reach a place at the end of a journey"
+  },
+  {
+    "id": 21,
+    "word": "Artificial",
+    "correct": "Natural",
+    "options": ["Natural", "Fake", "Real", "Man-made"],
+    "hint": "Made or produced by a human being rather than occurring naturally"
+  },
+  {
+    "id": 22,
+    "word": "Attack",
+    "correct": "Defend",
+    "options": ["Defend", "Fight", "Assault", "Surrender"],
+    "hint": "Take aggressive action against (a place or enemy)"
+  },
+  {
+    "id": 23,
+    "word": "Awake",
+    "correct": "Asleep",
+    "options": ["Asleep", "Conscious", "Tired", "Napping"],
+    "hint": "Not sleeping"
+  },
+  {
+    "id": 24,
+    "word": "Bad",
+    "correct": "Good",
+    "options": ["Good", "Wicked", "Evil", "Great"],
+    "hint": "Of poor quality or low standard"
+  },
+  {
+    "id": 25,
+    "word": "Beautiful",
+    "correct": "Ugly",
+    "options": ["Ugly", "Lovely", "Gorgeous", "Attractive"],
+    "hint": "Pleasing the senses or mind aesthetically"
+  },
+  {
+    "id": 26,
+    "word": "Begin",
+    "correct": "End",
+    "options": ["End", "Start", "Commence", "Continue"],
+    "hint": "Start, perform, or undergo the first part of (an action or activity)"
+  },
+  {
+    "id": 27,
+    "word": "Below",
+    "correct": "Above",
+    "options": ["Above", "Under", "Beneath", "Around"],
+    "hint": "At a lower level or layer than (something)"
+  },
+  {
+    "id": 28,
+    "word": "Bless",
+    "correct": "Curse",
+    "options": ["Curse", "Sanctify", "Praise", "Heal"],
+    "hint": "To bestow divine favor upon"
+  },
+  {
+    "id": 29,
+    "word": "Borrow",
+    "correct": "Lend",
+    "options": ["Lend", "Loan", "Keep", "Take"],
+    "hint": "Take and use (something belonging to someone else) with the intention of returning it"
+  },
+  {
+    "id": 30,
+    "word": "Bottom",
+    "correct": "Top",
+    "options": ["Top", "Base", "Foot", "Peak"],
+    "hint": "The lowest part of something"
+  },
+  {
+    "id": 31,
+    "word": "Brave",
+    "correct": "Cowardly",
+    "options": ["Cowardly", "Bold", "Fearless", "Heroic"],
+    "hint": "Ready to face and endure danger or pain; showing courage"
+  },
+  {
+    "id": 32,
+    "word": "Build",
+    "correct": "Destroy",
+    "options": ["Destroy", "Create", "Make", "Repair"],
+    "hint": "Construct (something) by putting parts or materials together"
+  },
+  {
+    "id": 33,
+    "word": "Calm",
+    "correct": "Stormy",
+    "options": ["Stormy", "Peaceful", "Quiet", "Angry"],
+    "hint": "Not subject to violent or exciting activity"
+  },
+  {
+    "id": 34,
+    "word": "Cheap",
+    "correct": "Expensive",
+    "options": ["Expensive", "Inexpensive", "Affordable", "Costly"],
+    "hint": "Low in price, especially in relation to similar items"
+  },
+  {
+    "id": 35,
+    "word": "Clean",
+    "correct": "Dirty",
+    "options": ["Dirty", "Tidy", "Spotless", "Messy"],
+    "hint": "Free from dirt, marks, or stains"
+  },
+  {
+    "id": 36,
+    "word": "Clever",
+    "correct": "Stupid",
+    "options": ["Stupid", "Smart", "Intelligent", "Wise"],
+    "hint": "Quick at learning and understanding things"
+  },
+  {
+    "id": 37,
+    "word": "Close",
+    "correct": "Far",
+    "options": ["Far", "Near", "Distant", "Adjacent"],
+    "hint": "A short distance away or apart in space or time"
+  },
+  {
+    "id": 38,
+    "word": "Cold",
+    "correct": "Hot",
+    "options": ["Hot", "Chilly", "Freezing", "Warm"],
+    "hint": "Having a low temperature"
+  },
+  {
+    "id": 39,
+    "word": "Common",
+    "correct": "Rare",
+    "options": ["Rare", "Frequent", "Usual", "Special"],
+    "hint": "Occurring, found, or done often; prevalent"
+  },
+  {
+    "id": 40,
+    "word": "Create",
+    "correct": "Destroy",
+    "options": ["Destroy", "Make", "Generate", "Ruin"],
+    "hint": "Bring (something) into existence"
+  },
+  {
+    "id": 41,
+    "word": "Cruel",
+    "correct": "Kind",
+    "options": ["Kind", "Harsh", "Mean", "Gentle"],
+    "hint": "Willfully causing pain or suffering to others"
+  },
+  {
+    "id": 42,
+    "word": "Dangerous",
+    "correct": "Safe",
+    "options": ["Safe", "Hazardous", "Risky", "Secure"],
+    "hint": "Involving or causing risk; likely to be harmful"
+  },
+  {
+    "id": 43,
+    "word": "Day",
+    "correct": "Night",
+    "options": ["Night", "Dawn", "Morning", "Time"],
+    "hint": "Each of the twenty-four hours from one midnight to the next"
+  },
+  {
+    "id": 44,
+    "word": "Deep",
+    "correct": "Shallow",
+    "options": ["Shallow", "Profound", "Sunken", "Low"],
+    "hint": "Extending far down from the top or surface"
+  },
+  {
+    "id": 45,
+    "word": "Difficult",
+    "correct": "Easy",
+    "options": ["Easy", "Hard", "Tough", "Simple"],
+    "hint": "Needing much effort or skill to accomplish, deal with, or understand"
+  },
+  {
+    "id": 46,
+    "word": "Hot",
+    "correct": "Cold",
+    "options": ["Warm", "Cold", "Boiling", "Spicy"],
+    "hint": "Having a high degree of heat or a high temperature"
+  },
+  {
+    "id": 47,
+    "word": "Fast",
+    "correct": "Slow",
+    "options": ["Quick", "Rapid", "Slow", "Swift"],
+    "hint": "Moving or capable of moving at high speed"
+  },
+  {
+    "id": 48,
+    "word": "Big",
+    "correct": "Small",
+    "options": ["Large", "Huge", "Small", "Wide"],
+    "hint": "Of considerable size or extent"
+  },
+  {
+    "id": 49,
+    "word": "Happy",
+    "correct": "Sad",
+    "options": ["Joyful", "Sad", "Cheerful", "Glad"],
+    "hint": "Feeling or showing pleasure or contentment"
+  },
+  {
+    "id": 50,
+    "word": "Old",
+    "correct": "Young",
+    "options": ["Ancient", "Young", "Aged", "Elderly"],
+    "hint": "Having lived for a long time; no longer young"
+  },
+  {
+    "id": 51,
+    "word": "Strong",
+    "correct": "Weak",
+    "options": ["Powerful", "Weak", "Mighty", "Solid"],
+    "hint": "Having the power to move heavy weights or perform difficult tasks"
+  },
+  {
+    "id": 52,
+    "word": "Clean",
+    "correct": "Dirty",
+    "options": ["Neat", "Dirty", "Pure", "Fresh"],
+    "hint": "Free from dirt, marks, or stains"
+  },
+  {
+    "id": 53,
+    "word": "Light",
+    "correct": "Dark",
+    "options": ["Bright", "Dark", "Shiny", "Clear"],
+    "hint": "Having a brightness or illumination"
+  },
+  {
+    "id": 54,
+    "word": "Early",
+    "correct": "Late",
+    "options": ["Prompt", "Late", "Quick", "Soon"],
+    "hint": "Happening or done before the usual or expected time"
+  },
+  {
+    "id": 55,
+    "word": "Full",
+    "correct": "Empty",
+    "options": ["Complete", "Empty", "Packed", "Loaded"],
+    "hint": "Containing or holding as much as possible"
+  },
+  {
+    "id": 56,
+    "word": "Open",
+    "correct": "Closed",
+    "options": ["Shut", "Closed", "Wide", "Free"],
+    "hint": "Allowing access, passage, or view"
+  },
+  {
+    "id": 57,
+    "word": "Near",
+    "correct": "Far",
+    "options": ["Far", "Close", "Next", "Beside"],
+    "hint": "At a short distance"
+  },
+  {
+    "id": 58,
+    "word": "Heavy",
+    "correct": "Light",
+    "options": ["Light", "Weighty", "Solid", "Thick"],
+    "hint": "Of great weight; difficult to lift or move"
+  },
+  {
+    "id": 59,
+    "word": "Rich",
+    "correct": "Poor",
+    "options": ["Wealthy", "Poor", "Lucky", "Famous"],
+    "hint": "Having a great deal of money or assets"
+  },
+  {
+    "id": 60,
+    "word": "Noisy",
+    "correct": "Quiet",
+    "options": ["Loud", "Quiet", "Shiny", "Busy"],
+    "hint": "Making a lot of sound"
+  },
+  {
+    "id": 61,
+    "word": "Top",
+    "correct": "Bottom",
+    "options": ["Upper", "Bottom", "Side", "Front"],
+    "hint": "The highest point or part"
+  },
+  {
+    "id": 62,
+    "word": "Win",
+    "correct": "Lose",
+    "options": ["Gain", "Lose", "Beat", "Score"],
+    "hint": "To achieve victory"
+  },
+  {
+    "id": 63,
+    "word": "Begin",
+    "correct": "End",
+    "options": ["Start", "Open", "End", "Launch"],
+    "hint": "To start something"
+  },
+  {
+    "id": 64,
+    "word": "Safe",
+    "correct": "Dangerous",
+    "options": ["Secure", "Dangerous", "Calm", "Quiet"],
+    "hint": "Free from harm or risk"
+  },
+  {
+    "id": 65,
+    "word": "Soft",
+    "correct": "Hard",
+    "options": ["Gentle", "Hard", "Smooth", "Light"],
+    "hint": "Easy to press or bend"
+  },
+  {
+    "id": 66,
+    "word": "True",
+    "correct": "False",
+    "options": ["Correct", "False", "Honest", "Clear"],
+    "hint": "In accordance with fact or reality"
+  },
+  {
+    "id": 67,
+    "word": "Buy",
+    "correct": "Sell",
+    "options": ["Sell", "Pay", "Trade", "Give"],
+    "hint": "To purchase something with money"
+  },
+  {
+    "id": 68,
+    "word": "Bright",
+    "correct": "Dull",
+    "options": ["Shiny", "Dull", "Clear", "Smart"],
+    "hint": "Giving out or reflecting much light"
+  },
+  {
+    "id": 69,
+    "word": "Tall",
+    "correct": "Short",
+    "options": ["Short", "High", "Long", "Wide"],
+    "hint": "Having great height"
+  },
+  {
+    "id": 70,
+    "word": "Dry",
+    "correct": "Wet",
+    "options": ["Moist", "Wet", "Cold", "Soft"],
+    "hint": "Free from moisture or liquid"
+  },
+  {
+    "id": 71,
+    "word": "Inside",
+    "correct": "Outside",
+    "options": ["Outside", "Inner", "Deep", "Down"],
+    "hint": "On the inner side of something"
+  },
+  {
+    "id": 72,
+    "word": "Push",
+    "correct": "Pull",
+    "options": ["Pull", "Press", "Lift", "Throw"],
+    "hint": "To apply force to move something away"
+  },
+  {
+    "id": 73,
+    "word": "Sharp",
+    "correct": "Dull",
+    "options": ["Pointed", "Dull", "Thin", "Bright"],
+    "hint": "Having a fine edge or point"
+  },
+  {
+    "id": 74,
+    "word": "Generous",
+    "correct": "Greedy",
+    "options": ["Kind", "Greedy", "Helpful", "Rich"],
+    "hint": "Willing to give more than expected"
+  },
+  {
+    "id": 75,
+    "word": "Day",
+    "correct": "Night",
+    "options": ["Evening", "Night", "Morning", "Afternoon"],
+    "hint": "The time of light between sunrise and sunset"
+  },
+  {
+    "id": 76,
+    "word": "Accept",
+    "correct": "Reject",
+    "options": ["Receive", "Reject", "Agree", "Like"],
+    "hint": "To agree to take something"
+  },
+  {
+    "id": 77,
+    "word": "Laugh",
+    "correct": "Cry",
+    "options": ["Smile", "Cry", "Shout", "Play"],
+    "hint": "To express joy with sound and movement"
+  },
+  {
+    "id": 78,
+    "word": "Front",
+    "correct": "Back",
+    "options": ["Top", "Side", "Back", "Up"],
+    "hint": "The forward-facing side of something"
+  },
+  {
+    "id": 79,
+    "word": "Sweet",
+    "correct": "Sour",
+    "options": ["Sour", "Salty", "Bitter", "Spicy"],
+    "hint": "Having a sugary taste"
+  },
+  {
+    "id": 80,
+    "word": "Thick",
+    "correct": "Thin",
+    "options": ["Wide", "Heavy", "Thin", "Tight"],
+    "hint": "Having a large distance between opposite sides"
+  },
+  {
+    "id": 81,
+    "word": "Correct",
+    "correct": "Wrong",
+    "options": ["Right", "Wrong", "True", "Fair"],
+    "hint": "Free from error"
+  },
+  {
+    "id": 82,
+    "word": "Include",
+    "correct": "Exclude",
+    "options": ["Add", "Exclude", "Join", "Mix"],
+    "hint": "To contain as a part of the whole"
+  },
+  {
+    "id": 83,
+    "word": "Polite",
+    "correct": "Rude",
+    "options": ["Kind", "Rude", "Gentle", "Quiet"],
+    "hint": "Showing good manners"
+  },
+  {
+    "id": 84,
+    "word": "Alive",
+    "correct": "Dead",
+    "options": ["Active", "Dead", "Awake", "Fresh"],
+    "hint": "Living, not dead"
+  },
+  {
+    "id": 85,
+    "word": "Up",
+    "correct": "Down",
+    "options": ["Over", "Down", "Above", "High"],
+    "hint": "Toward a higher place or position"
+  },
+  {
+    "id": 86,
+    "word": "Brave",
+    "correct": "Cowardly",
+    "options": ["Bold", "Cowardly", "Strong", "Kind"],
+    "hint": "Ready to face danger or pain"
+  },
+  {
+    "id": 87,
+    "word": "Busy",
+    "correct": "Idle",
+    "options": ["Active", "Idle", "Alert", "Fast"],
+    "hint": "Having a lot to do"
+  },
+  {
+    "id": 88,
+    "word": "Cheap",
+    "correct": "Expensive",
+    "options": ["Low-cost", "Expensive", "Free", "Light"],
+    "hint": "Costing little money"
+  },
+  {
+    "id": 89,
+    "word": "Strong",
+    "correct": "Weak",
+    "options": ["Powerful", "Weak", "Fit", "Bold"],
+    "hint": "Physically powerful"
+  },
+  {
+    "id": 90,
+    "word": "Smooth",
+    "correct": "Rough",
+    "options": ["Soft", "Rough", "Clean", "Light"],
+    "hint": "Having an even and regular surface"
+  },
+  [
+    {
+      "id": 91,
+      "word": "Ancient",
+      "correct": "Modern",
+      "options": ["Modern", "Old", "Historic", "Aged"],
+      "hint": "Belonging to the very distant past and no longer in existence"
+    },
+    {
+      "id": 92,
+      "word": "Artificial",
+      "correct": "Natural",
+      "options": ["Natural", "Synthetic", "Fake", "Manufactured"],
+      "hint": "Made or produced by human beings rather than occurring naturally"
+    },
+    {
+      "id": 93,
+      "word": "Beautiful",
+      "correct": "Ugly",
+      "options": ["Ugly", "Pretty", "Attractive", "Lovely"],
+      "hint": "Pleasing the senses or mind aesthetically"
+    },
+    {
+      "id": 94,
+      "word": "Brave",
+      "correct": "Cowardly",
+      "options": ["Cowardly", "Courageous", "Bold", "Fearless"],
+      "hint": "Ready to face and endure danger or pain; showing courage"
+    },
+    {
+      "id": 95,
+      "word": "Brief",
+      "correct": "Lengthy",
+      "options": ["Lengthy", "Short", "Concise", "Quick"],
+      "hint": "Of short duration; not lasting for long"
+    },
+    {
+      "id": 96,
+      "word": "Broad",
+      "correct": "Narrow",
+      "options": ["Narrow", "Wide", "Expansive", "Spacious"],
+      "hint": "Having a distance larger than usual from side to side; wide"
+    },
+    {
+      "id": 97,
+      "word": "Careful",
+      "correct": "Careless",
+      "options": ["Careless", "Cautious", "Attentive", "Prudent"],
+      "hint": "Making sure of avoiding potential danger, mishap, or harm; cautious"
+    },
+    {
+      "id": 98,
+      "word": "Common",
+      "correct": "Rare",
+      "options": ["Rare", "Usual", "Ordinary", "Frequent"],
+      "hint": "Occurring, found, or done often; prevalent"
+    },
+    {
+      "id": 99,
+      "word": "Complete",
+      "correct": "Incomplete",
+      "options": ["Incomplete", "Whole", "Total", "Finished"],
+      "hint": "Having all the necessary or appropriate parts"
+    },
+    {
+      "id": 100,
+      "word": "Complex",
+      "correct": "Simple",
+      "options": ["Simple", "Complicated", "Intricate", "Sophisticated"],
+      "hint": "Consisting of many different and connected parts"
+    },
+    {
+      "id": 101,
+      "word": "Dark",
+      "correct": "Light",
+      "options": ["Light", "Dim", "Gloomy", "Shadowy"],
+      "hint": "With little or no light"
+    },
+    {
+      "id": 102,
+      "word": "Deep",
+      "correct": "Shallow",
+      "options": ["Shallow", "Profound", "Bottomless", "Abyssal"],
+      "hint": "Extending far down from the top or surface"
+    },
+    {
+      "id": 103,
+      "word": "Dirty",
+      "correct": "Clean",
+      "options": ["Clean", "Filthy", "Soiled", "Grimy"],
+      "hint": "Covered or marked with an unclean substance"
+    },
+    {
+      "id": 104,
+      "word": "Dry",
+      "correct": "Wet",
+      "options": ["Wet", "Arid", "Parched", "Dehydrated"],
+      "hint": "Free from moisture or liquid; not wet or moist"
+    },
+    {
+      "id": 105,
+      "word": "Early",
+      "correct": "Late",
+      "options": ["Late", "Premature", "Timely", "Advanced"],
+      "hint": "Happening or done before the usual or expected time"
+    },
+    {
+      "id": 106,
+      "word": "Empty",
+      "correct": "Full",
+      "options": ["Full", "Vacant", "Hollow", "Unoccupied"],
+      "hint": "Containing nothing; not filled or occupied"
+    },
+    {
+      "id": 107,
+      "word": "Fair",
+      "correct": "Unfair",
+      "options": ["Unfair", "Just", "Impartial", "Equitable"],
+      "hint": "Treating people equally without favoritism or discrimination"
+    },
+    {
+      "id": 108,
+      "word": "Fast",
+      "correct": "Slow",
+      "options": ["Slow", "Quick", "Rapid", "Swift"],
+      "hint": "Moving or capable of moving at high speed"
+    },
+    {
+      "id": 109,
+      "word": "Fat",
+      "correct": "Thin",
+      "options": ["Thin", "Plump", "Chubby", "Overweight"],
+      "hint": "Having a large amount of excess flesh"
+    },
+    {
+      "id": 110,
+      "word": "First",
+      "correct": "Last",
+      "options": ["Last", "Initial", "Primary", "Opening"],
+      "hint": "Coming before all others in time or order"
+    },
+    {
+      "id": 111,
+      "word": "Flexible",
+      "correct": "Rigid",
+      "options": ["Rigid", "Pliable", "Supple", "Adaptable"],
+      "hint": "Capable of bending easily without breaking"
+    },
+    {
+      "id": 112,
+      "word": "Fresh",
+      "correct": "Stale",
+      "options": ["Stale", "New", "Crisp", "Recent"],
+      "hint": "Newly made or obtained; not canned, frozen, or otherwise preserved"
+    },
+    {
+      "id": 113,
+      "word": "Gentle",
+      "correct": "Rough",
+      "options": ["Rough", "Mild", "Tender", "Soft"],
+      "hint": "Having or showing a mild, kind, or tender temperament or character"
+    },
+    {
+      "id": 114,
+      "word": "Happy",
+      "correct": "Sad",
+      "options": ["Sad", "Joyful", "Content", "Cheerful"],
+      "hint": "Feeling or showing pleasure or contentment"
+    },
+    {
+      "id": 115,
+      "word": "Hard",
+      "correct": "Soft",
+      "options": ["Soft", "Firm", "Solid", "Rigid"],
+      "hint": "Solid, firm, and resistant to pressure; not easily broken, bent, or pierced"
+    },
+    {
+      "id": 116,
+      "word": "Healthy",
+      "correct": "Sick",
+      "options": ["Sick", "Well", "Fit", "Robust"],
+      "hint": "In good health; free from illness or injury"
+    },
+    {
+      "id": 117,
+      "word": "Heavy",
+      "correct": "Light",
+      "options": ["Light", "Weighty", "Massive", "Burdened"],
+      "hint": "Of great weight; difficult to lift or move"
+    },
+    {
+      "id": 118,
+      "word": "High",
+      "correct": "Low",
+      "options": ["Low", "Tall", "Elevated", "Soaring"],
+      "hint": "Of great vertical extent; measuring a long distance from top to bottom"
+    },
+    {
+      "id": 119,
+      "word": "Hot",
+      "correct": "Cold",
+      "options": ["Cold", "Warm", "Boiling", "Scorching"],
+      "hint": "Having a high degree of heat or a high temperature"
+    },
+    {
+      "id": 120,
+      "word": "Kind",
+      "correct": "Cruel",
+      "options": ["Cruel", "Gentle", "Compassionate", "Benevolent"],
+      "hint": "Having or showing a friendly, generous, and considerate nature"
+    },
+    {
+      "id": 121,
+      "word": "Large",
+      "correct": "Small",
+      "options": ["Small", "Big", "Huge", "Spacious"],
+      "hint": "Of considerable or relatively great size, extent, or capacity"
+    },
+    {
+      "id": 122,
+      "word": "Loud",
+      "correct": "Quiet",
+      "options": ["Quiet", "Noisy", "Deafening", "Thunderous"],
+      "hint": "Producing or capable of producing much noise"
+    },
+    {
+      "id": 123,
+      "word": "Major",
+      "correct": "Minor",
+      "options": ["Minor", "Important", "Significant", "Principal"],
+      "hint": "Important, serious, or significant"
+    },
+    {
+      "id": 124,
+      "word": "Natural",
+      "correct": "Artificial",
+      "options": ["Artificial", "Genuine", "Organic", "Pure"],
+      "hint": "Existing in or derived from nature; not made or caused by humankind"
+    },
+    {
+      "id": 125,
+      "word": "New",
+      "correct": "Old",
+      "options": ["Old", "Recent", "Fresh", "Modern"],
+      "hint": "Produced, introduced, or discovered recently or now for the first time"
+    },
+    {
+      "id": 126,
+      "word": "Noisy",
+      "correct": "Quiet",
+      "options": ["Quiet", "Loud", "Raucous", "Deafening"],
+      "hint": "Making or given to making a lot of noise"
+    },
+    {
+      "id": 127,
+      "word": "Open",
+      "correct": "Closed",
+      "options": ["Closed", "Accessible", "Unlocked", "Ajar"],
+      "hint": "Allowing access, passage, or a view through an empty space; not closed or blocked"
+    },
+    {
+      "id": 128,
+      "word": "Polite",
+      "correct": "Rude",
+      "options": ["Rude", "Courteous", "Civil", "Respectful"],
+      "hint": "Having or showing behavior that is respectful and considerate of other people"
+    },
+    {
+      "id": 129,
+      "word": "Poor",
+      "correct": "Rich",
+      "options": ["Rich", "Needy", "Impoverished", "Destitute"],
+      "hint": "Lacking sufficient money to live at a standard considered comfortable or normal"
+    },
+    {
+      "id": 130,
+      "word": "Positive",
+      "correct": "Negative",
+      "options": ["Negative", "Optimistic", "Constructive", "Favorable"],
+      "hint": "Consisting in or characterized by the presence or possession of features or qualities"
+    },
+    {
+      "id": 131,
+      "word": "Powerful",
+      "correct": "Weak",
+      "options": ["Weak", "Strong", "Mighty", "Potent"],
+      "hint": "Having great power or strength"
+    },
+    {
+      "id": 132,
+      "word": "Pretty",
+      "correct": "Ugly",
+      "options": ["Ugly", "Attractive", "Lovely", "Beautiful"],
+      "hint": "Attractive in a delicate way without being truly beautiful"
+    },
+    {
+      "id": 133,
+      "word": "Private",
+      "correct": "Public",
+      "options": ["Public", "Personal", "Confidential", "Secret"],
+      "hint": "Belonging to or for the use of one particular person or group only"
+    },
+    {
+      "id": 134,
+      "word": "Rough",
+      "correct": "Smooth",
+      "options": ["Smooth", "Coarse", "Uneven", "Bumpy"],
+      "hint": "Having an uneven or irregular surface; not smooth or level"
+    },
+    {
+      "id": 135,
+      "word": "Safe",
+      "correct": "Dangerous",
+      "options": ["Dangerous", "Secure", "Protected", "Harmless"],
+      "hint": "Protected from or not exposed to danger or risk"
+    },
+    {
+      "id": 136,
+      "word": "Sharp",
+      "correct": "Dull",
+      "options": ["Dull", "Keen", "Pointed", "Acute"],
+      "hint": "Having an edge or point that is able to cut or pierce something"
+    },
+    {
+      "id": 137,
+      "word": "Sick",
+      "correct": "Healthy",
+      "options": ["Healthy", "Ill", "Unwell", "Ailing"],
+      "hint": "Affected by physical or mental illness"
+    },
+    {
+      "id": 138,
+      "word": "Simple",
+      "correct": "Complex",
+      "options": ["Complex", "Easy", "Basic", "Straightforward"],
+      "hint": "Easily understood or done; presenting no difficulty"
+    },
+    {
+      "id": 139,
+      "word": "Smooth",
+      "correct": "Rough",
+      "options": ["Rough", "Even", "Polished", "Sleek"],
+      "hint": "Having an even and regular surface; free from perceptible projections, lumps, or indentations"
+    },
+    {
+      "id": 140,
+      "word": "Strong",
+      "correct": "Weak",
+      "options": ["Weak", "Powerful", "Robust", "Sturdy"],
+      "hint": "Having the power to move heavy weights or perform other physically demanding tasks"
+    },
+    {
+      "id": 141,
+      "word": "Sweet",
+      "correct": "Sour",
+      "options": ["Sour", "Bitter", "Salty", "Tangy"],
+      "hint": "Having the pleasant taste characteristic of sugar or honey; not salty, sour, or bitter"
+    },
+    {
+      "id": 142,
+      "word": "Tall",
+      "correct": "Short",
+      "options": ["Short", "High", "Elevated", "Lanky"],
+      "hint": "Of great or more than average height, especially with reference to objects"
+    },
+    {
+      "id": 143,
+      "word": "Temporary",
+      "correct": "Permanent",
+      "options": ["Permanent", "Brief", "Fleeting", "Transient"],
+      "hint": "Lasting for only a limited period of time; not permanent"
+    },
+    {
+      "id": 144,
+      "word": "Thick",
+      "correct": "Thin",
+      "options": ["Thin", "Dense", "Chunky", "Bulky"],
+      "hint": "With opposite sides or surfaces that are far or relatively far apart"
+    },
+    {
+      "id": 145,
+      "word": "Tight",
+      "correct": "Loose",
+      "options": ["Loose", "Firm", "Secure", "Constricted"],
+      "hint": "Fixed, fastened, or closed firmly; hard to move, undo, or open"
+    },
+    {
+      "id": 146,
+      "word": "Transparent",
+      "correct": "Opaque",
+      "options": ["Opaque", "Clear", "See-through", "Sheer"],
+      "hint": "Allowing light to pass through so that objects behind can be distinctly seen"
+    },
+    {
+      "id": 147,
+      "word": "Victory",
+      "correct": "Defeat",
+      "options": ["Defeat", "Triumph", "Success", "Conquest"],
+      "hint": "An act of defeating an enemy or opponent in a battle, game, or other competition"
+    },
+    {
+      "id": 148,
+      "word": "Visible",
+      "correct": "Invisible",
+      "options": ["Invisible", "Apparent", "Noticeable", "Observable"],
+      "hint": "Able to be seen; in sight"
+    },
+    {
+      "id": 149,
+      "word": "Warm",
+      "correct": "Cool",
+      "options": ["Cool", "Hot", "Tepid", "Toasty"],
+      "hint": "Of or at a fairly or comfortably high temperature"
+    },
+    {
+      "id": 150,
+      "word": "Wild",
+      "correct": "Tame",
+      "options": ["Tame", "Untamed", "Feral", "Uncivilized"],
+      "hint": "Living or growing in the natural environment; not domesticated or cultivated"
+    }
+  ]
+]
