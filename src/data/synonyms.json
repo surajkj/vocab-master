@@ -562,6 +562,146 @@
     },
     {
       "id": 81,
+      "word": "Diligent",
+      "correct": "Industrious",
+      "options": ["Industrious", "Lazy", "Careless", "Slow"],
+      "hint": "Having or showing care and conscientiousness in one's work or duties."
+    },
+    {
+      "id": 82,
+      "word": "Candid",
+      "correct": "Frank",
+      "options": ["Frank", "Deceptive", "Secretive", "Shy"],
+      "hint": "Truthful and straightforward; frank."
+    },
+    {
+      "id": 83,
+      "word": "Abundant",
+      "correct": "Plentiful",
+      "options": ["Plentiful", "Scarce", "Few", "Empty"],
+      "hint": "Existing or available in large quantities; plentiful."
+    },
+    {
+      "id": 84,
+      "word": "Benevolent",
+      "correct": "Kind",
+      "options": ["Kind", "Cruel", "Selfish", "Stingy"],
+      "hint": "Well meaning and kindly."
+    },
+    {
+      "id": 85,
+      "word": "Lethargic",
+      "correct": "Sluggish",
+      "options": ["Sluggish", "Energetic", "Quick", "Active"],
+      "hint": "Affected by lethargy; sluggish and apathetic."
+    },
+    {
+      "id": 86,
+      "word": "Concise",
+      "correct": "Brief",
+      "options": ["Brief", "Lengthy", "Wordy", "Vague"],
+      "hint": "Giving a lot of information clearly and in a few words; brief."
+    },
+    {
+      "id": 87,
+      "word": "Obscure",
+      "correct": "Unclear",
+      "options": ["Unclear", "Obvious", "Visible", "Known"],
+      "hint": "Not discovered or known about; uncertain."
+    },
+    {
+      "id": 88,
+      "word": "Prudent",
+      "correct": "Sensible",
+      "options": ["Sensible", "Reckless", "Foolish", "Impulsive"],
+      "hint": "Acting with or showing care and thought for the future."
+    },
+    {
+      "id": 89,
+      "word": "Transient",
+      "correct": "Temporary",
+      "options": ["Temporary", "Permanent", "Lasting", "Stable"],
+      "hint": "Lasting only for a short time; impermanent."
+    },
+    {
+      "id": 90,
+      "word": "Vigilant",
+      "correct": "Watchful",
+      "options": ["Watchful", "Negligent", "Careless", "Asleep"],
+      "hint": "Keeping careful watch for possible danger or difficulties."
+    },
+    {
+      "id": 91,
+      "word": "Cease",
+      "correct": "Terminate",
+      "options": ["Terminate", "Begin", "Start", "Continue"],
+      "hint": "Bring or come to an end."
+    },
+    {
+      "id": 92,
+      "word": "Allure",
+      "correct": "Entice",
+      "options": ["Entice", "Repel", "Discourage", "Warn"],
+      "hint": "The quality of being powerfully and mysteriously attractive or fascinating."
+    },
+    {
+      "id": 93,
+      "word": "Audacity",
+      "correct": "Boldness",
+      "options": ["Boldness", "Mildness", "Timidity", "Fear"],
+      "hint": "The willingness to take bold risks; daring."
+    },
+    {
+      "id": 94,
+      "word": "Adept",
+      "correct": "Skillful",
+      "options": ["Skillful", "Clumsy", "Incompetent", "Awkward"],
+      "hint": "Very skilled or proficient at something."
+    },
+    {
+      "id": 95,
+      "word": "Baffle",
+      "correct": "Perplex",
+      "options": ["Perplex", "Clarify", "Explain", "Help"],
+      "hint": "Totally bewilder or perplex."
+    },
+    {
+      "id": 96,
+      "word": "Calm",
+      "correct": "Tranquil",
+      "options": ["Tranquil", "Stormy", "Agitated", "Turbulent"],
+      "hint": "Not showing or feeling nervousness, anger, or other strong emotions."
+    },
+    {
+      "id": 97,
+      "word": "Decipher",
+      "correct": "Interpret",
+      "options": ["Interpret", "Distort", "Conceal", "Scramble"],
+      "hint": "Succeed in understanding, interpreting, or identifying (something)."
+    },
+    {
+      "id": 98,
+      "word": "Decay",
+      "correct": "Decompose",
+      "options": ["Decompose", "Flourish", "Grow", "Develop"],
+      "hint": "Rot or decompose through the action of bacteria and fungi."
+    },
+    {
+      "id": 99,
+      "word": "Amplify",
+      "correct": "Deepen",
+      "options": ["Deepen", "Lessen", "Reduce", "Contract"],
+      "hint": "Increase the volume or expand upon (a statement or idea)."
+    },
+    {
+      "id": 100,
+      "word": "Concur",
+      "correct": "Agree",
+      "options": ["Agree", "Differ", "Oppose", "Conflict"],
+      "hint": "Be of the same opinion; agree."
+    },
+    {
+      "id": 101,
       "word": "Dangerous",
       "correct": "Hazardous",
       "options": ["Safe", "Hazardous", "Funny", "Easy"],

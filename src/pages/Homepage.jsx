@@ -32,7 +32,7 @@ const Homepage = () => {
             title: 'Synonyms Quiz',
             description: 'Expand your vocabulary by finding words with similar meanings',
             color: 'blue',
-            path: '/synonyms',
+            path: '/vocab-master/synonyms',
             stats: '500+ words',
             difficulty: 'Beginner to Advanced'
         },
@@ -42,7 +42,7 @@ const Homepage = () => {
             title: 'Antonyms Practice',
             description: 'Master words with opposite meanings to enhance comprehension',
             color: 'red',
-            path: '/antonyms',
+            path: '/vocab-master/antonyms',
             stats: '400+ pairs',
             difficulty: 'Intermediate'
         },
@@ -52,7 +52,7 @@ const Homepage = () => {
             title: 'One-Word Substitution',
             description: 'Replace lengthy phrases with single, precise words',
             color: 'purple',
-            path: '/one-word-substitution',
+            path: '/vocab-master/one-word-substitution',
             stats: '300+ phrases',
             difficulty: 'Advanced'
         },
@@ -62,7 +62,7 @@ const Homepage = () => {
             title: 'Vocabulary Builder',
             description: 'Learn new words daily with meanings and usage examples',
             color: 'green',
-            path: '/vocabulary',
+            path: '/vocab-master/vocabulary',
             stats: '1000+ words',
             difficulty: 'All Levels'
         },
@@ -72,7 +72,7 @@ const Homepage = () => {
             title: 'Idioms & Phrases',
             description: 'Understand and use common English idioms in context',
             color: 'yellow',
-            path: '/idioms-phrases',
+            path: '/vocab-master/idioms-phrases',
             stats: '200+ idioms',
             difficulty: 'Intermediate'
         }
@@ -83,27 +83,6 @@ const Homepage = () => {
         { value: '2000+', label: 'Questions', icon: <Target className="h-6 w-6" /> },
         { value: '98%', label: 'Satisfaction Rate', icon: <Award className="h-6 w-6" /> },
         { value: '24/7', label: 'Available', icon: <Clock className="h-6 w-6" /> }
-    ];
-
-    const testimonials = [
-        {
-            name: 'Sarah Johnson',
-            role: 'IELTS Student',
-            content: 'This platform helped me improve my vocabulary score from 6.5 to 8.0 in just 2 months!',
-            avatar: 'SJ'
-        },
-        {
-            name: 'Raj Patel',
-            role: 'Competitive Exam Aspirant',
-            content: 'The synonym and antonym exercises are exactly what I needed for my government exam preparation.',
-            avatar: 'RP'
-        },
-        {
-            name: 'Maria Garcia',
-            role: 'ESL Teacher',
-            content: 'I recommend this to all my students. The interface is clean and the content is well-organized.',
-            avatar: 'MG'
-        }
     ];
 
     const learningPaths = [
@@ -196,14 +175,14 @@ const Homepage = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link
-                    to="/synonyms"
+                    to="/vocab-master/synonyms"
                     className="group inline-flex items-center justify-center px-8 py-4 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-all hover:scale-105 active:scale-95"
                 >
                     Start Learning Free
                     <ChevronRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
                 </Link>
                 <Link
-                    to="/about"
+                    to="/vocab-master/about"
                     className="inline-flex items-center justify-center px-8 py-4 bg-gray-800 text-white font-semibold rounded-lg hover:bg-gray-700 transition-all border border-gray-700"
                 >
                     Learn More
@@ -327,43 +306,6 @@ const Homepage = () => {
         </div>
     </section>
 
-    {/* Testimonials */}
-    <section className="py-20 bg-gradient-to-b from-gray-900 to-gray-800">
-        <div className="container mx-auto px-4">
-            <div className="text-center mb-16">
-                <h2 className="text-4xl font-bold text-white mb-4">What Students Say</h2>
-                <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-                    Join thousands of successful students who improved their English skills
-                </p>
-            </div>
-
-            <div className="grid md:grid-cols-3 gap-8">
-                {testimonials.map((testimonial, index) => (
-                    <div
-                        key={index}
-                        className="bg-gray-800/50 backdrop-blur-sm rounded-xl p-8 border border-gray-700 hover:border-gray-600 transition-colors"
-                    >
-                        <div className="flex items-center gap-4 mb-6">
-                            <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full flex items-center justify-center text-white font-bold">
-                                {testimonial.avatar}
-                            </div>
-                            <div>
-                                <h4 className="font-bold text-white">{testimonial.name}</h4>
-                                <p className="text-gray-400 text-sm">{testimonial.role}</p>
-                            </div>
-                        </div>
-                        <p className="text-gray-300 italic">"{testimonial.content}"</p>
-                        <div className="flex mt-6">
-                            {[...Array(5)].map((_, i) => (
-                                <Star key={i} className="h-4 w-4 text-yellow-400 fill-current" />
-                            ))}
-                        </div>
-                    </div>
-                ))}
-            </div>
-        </div>
-    </section>
-
     {/* Benefits Section */}
     <section className="py-20">
         <div className="container mx-auto px-4">
@@ -438,7 +380,7 @@ const Homepage = () => {
                     </div>
 
                     <Link
-                        to="/synonyms"
+                        to="/vocab-master/synonyms"
                         className="mt-8 block w-full py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg text-center hover:from-blue-700 hover:to-purple-700 transition-all hover:scale-[1.02]"
                     >
                         Get Started For Free
@@ -466,27 +408,18 @@ const Homepage = () => {
 
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                     <Link
-                        to="/synonyms"
+                        to="/vocab-master/synonyms"
                         className="group inline-flex items-center justify-center px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-purple-700 transition-all hover:scale-105"
                     >
                         Start Free Practice
                         <ChevronRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
                     </Link>
                     <Link
-                        to="/about"
+                        to="/vocab-master/about"
                         className="inline-flex items-center justify-center px-8 py-4 bg-gray-800/50 backdrop-blur-sm text-white font-semibold rounded-lg hover:bg-gray-800 transition-all border border-gray-700"
                     >
                         Learn About Us
                     </Link>
-                </div>
-
-                <div className="mt-12 grid grid-cols-2 md:grid-cols-4 gap-6">
-                    {['IELTS', 'TOEFL', 'GRE', 'SAT'].map((exam) => (
-                        <div key={exam} className="p-4 bg-gray-800/30 rounded-lg border border-gray-700">
-                            <div className="text-white font-semibold">{exam}</div>
-                            <div className="text-sm text-gray-400">Preparation</div>
-                        </div>
-                    ))}
                 </div>
             </div>
         </div>
