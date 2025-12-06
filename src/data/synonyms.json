@@ -1,0 +1,571 @@
+{
+  "synonyms": [
+    {
+      "id": 1,
+      "word": "Happy",
+      "correct": "Joyful",
+      "options": ["Joyful", "Sad", "Angry", "Tired"],
+      "hint": "Feeling or showing pleasure or contentment"
+    },
+    {
+      "id": 2,
+      "word": "Beautiful",
+      "correct": "Gorgeous",
+      "options": ["Gorgeous", "Ugly", "Plain", "Simple"],
+      "hint": "Pleasing the senses or mind aesthetically"
+    },
+    {
+      "id": 3,
+      "word": "Intelligent",
+      "correct": "Smart",
+      "options": ["Smart", "Foolish", "Slow", "Simple"],
+      "hint": "Having or showing intelligence"
+    },
+    {
+      "id": 4,
+      "word": "Big",
+      "correct": "Large",
+      "options": ["Large", "Small", "Tiny", "Little"],
+      "hint": "Of considerable size or extent"
+    },
+    {
+      "id": 5,
+      "word": "Fast",
+      "correct": "Quick",
+      "options": ["Quick", "Slow", "Lazy", "Calm"],
+      "hint": "Moving or capable of moving at high speed"
+    },
+    {
+      "id": 6,
+      "word": "Brave",
+      "correct": "Courageous",
+      "options": ["Courageous", "Fearful", "Timid", "Shy"],
+      "hint": "Ready to face and endure danger or pain"
+    },
+    {
+      "id": 7,
+      "word": "Angry",
+      "correct": "Furious",
+      "options": ["Furious", "Happy", "Calm", "Peaceful"],
+      "hint": "Feeling or showing strong annoyance"
+    },
+    {
+      "id": 8,
+      "word": "Rich",
+      "correct": "Wealthy",
+      "options": ["Wealthy", "Poor", "Simple", "Common"],
+      "hint": "Having a great deal of money or assets"
+    },
+    {
+      "id": 9,
+      "word": "Small",
+      "correct": "Tiny",
+      "options": ["Tiny", "Big", "Large", "Huge"],
+      "hint": "Of a size that is less than normal"
+    },
+    {
+      "id": 10,
+      "word": "Smart",
+      "correct": "Clever",
+      "options": ["Clever", "Dumb", "Slow", "Foolish"],
+      "hint": "Having or showing a quick-witted intelligence"
+    },
+    {
+      "id": 11,
+      "word": "Funny",
+      "correct": "Humorous",
+      "options": ["Humorous", "Serious", "Boring", "Sad"],
+      "hint": "Causing laughter or amusement"
+    },
+    {
+      "id": 12,
+      "word": "Sad",
+      "correct": "Unhappy",
+      "options": ["Unhappy", "Joyful", "Happy", "Excited"],
+      "hint": "Feeling or showing sorrow"
+    },
+    {
+      "id": 13,
+      "word": "Old",
+      "correct": "Ancient",
+      "options": ["Ancient", "New", "Young", "Fresh"],
+      "hint": "Having lived for a long time"
+    },
+    {
+      "id": 14,
+      "word": "New",
+      "correct": "Fresh",
+      "options": ["Fresh", "Old", "Ancient", "Used"],
+      "hint": "Recently created or having started recently"
+    },
+    {
+      "id": 15,
+      "word": "Hot",
+      "correct": "Warm",
+      "options": ["Warm", "Cold", "Cool", "Freezing"],
+      "hint": "Having a high degree of heat"
+    },
+    {
+      "id": 16,
+      "word": "Cold",
+      "correct": "Chilly",
+      "options": ["Chilly", "Hot", "Warm", "Boiling"],
+      "hint": "Of or at a low or relatively low temperature"
+    },
+    {
+      "id": 17,
+      "word": "Pretty",
+      "correct": "Attractive",
+      "options": ["Attractive", "Ugly", "Plain", "Simple"],
+      "hint": "Pleasing to the eye"
+    },
+    {
+      "id": 18,
+      "word": "Strong",
+      "correct": "Powerful",
+      "options": ["Powerful", "Weak", "Frail", "Feeble"],
+      "hint": "Having the power to move heavy weights"
+    },
+    {
+      "id": 19,
+      "word": "Weak",
+      "correct": "Frail",
+      "options": ["Frail", "Strong", "Powerful", "Robust"],
+      "hint": "Lacking the power to perform physically"
+    },
+    {
+      "id": 20,
+      "word": "Bright",
+      "correct": "Shiny",
+      "options": ["Shiny", "Dark", "Dull", "Dim"],
+      "hint": "Giving out or reflecting much light"
+    },
+    {
+      "id": 21,
+      "word": "Happy",
+      "correct": "Joyful",
+      "options": ["Sad", "Angry", "Joyful", "Tired"],
+      "hint": "Feeling or showing pleasure"
+    },
+    {
+      "id": 22,
+      "word": "Fast",
+      "correct": "Quick",
+      "options": ["Slow", "Quick", "Lazy", "Late"],
+      "hint": "Moving with speed"
+    },
+    {
+      "id": 23,
+      "word": "Big",
+      "correct": "Large",
+      "options": ["Tiny", "Short", "Large", "Thin"],
+      "hint": "Of great size"
+    },
+    {
+      "id": 24,
+      "word": "Angry",
+      "correct": "Furious",
+      "options": ["Calm", "Happy", "Furious", "Kind"],
+      "hint": "Very upset or mad"
+    },
+    {
+      "id": 25,
+      "word": "Smart",
+      "correct": "Intelligent",
+      "options": ["Weak", "Dull", "Intelligent", "Lazy"],
+      "hint": "Having a good mind"
+    },
+    {
+      "id": 26,
+      "word": "Cold",
+      "correct": "Chilly",
+      "options": ["Hot", "Warm", "Dry", "Chilly"],
+      "hint": "Slightly cold"
+    },
+    {
+      "id": 27,
+      "word": "Easy",
+      "correct": "Simple",
+      "options": ["Hard", "Complex", "Simple", "Tough"],
+      "hint": "Not difficult"
+    },
+    {
+      "id": 28,
+      "word": "Clean",
+      "correct": "Neat",
+      "options": ["Dirty", "Messy", "Neat", "Wet"],
+      "hint": "Free from dirt"
+    },
+    {
+      "id": 29,
+      "word": "Brave",
+      "correct": "Courageous",
+      "options": ["Fearful", "Weak", "Courageous", "Quiet"],
+      "hint": "Not afraid of danger"
+    },
+    {
+      "id": 30,
+      "word": "Funny",
+      "correct": "Humorous",
+      "options": ["Boring", "Humorous", "Serious", "Angry"],
+      "hint": "Causing laughter"
+    },
+    {
+      "id": 31,
+      "word": "Rich",
+      "correct": "Wealthy",
+      "options": ["Poor", "Wealthy", "Hungry", "Small"],
+      "hint": "Having a lot of money"
+    },
+    {
+      "id": 32,
+      "word": "Quiet",
+      "correct": "Silent",
+      "options": ["Loud", "Noisy", "Silent", "Rough"],
+      "hint": "Making no sound"
+    },
+    {
+      "id": 33,
+      "word": "Strong",
+      "correct": "Powerful",
+      "options": ["Weak", "Soft", "Powerful", "Thin"],
+      "hint": "Having great force"
+    },
+    {
+      "id": 34,
+      "word": "Begin",
+      "correct": "Start",
+      "options": ["Stop", "End", "Start", "Close"],
+      "hint": "To begin an action"
+    },
+    {
+      "id": 35,
+      "word": "End",
+      "correct": "Finish",
+      "options": ["Open", "Finish", "Start", "Begin"],
+      "hint": "To bring to a stop"
+    },
+    {
+      "id": 36,
+      "word": "Little",
+      "correct": "Small",
+      "options": ["Big", "Large", "Small", "Huge"],
+      "hint": "Not big in size"
+    },
+    {
+      "id": 37,
+      "word": "Look",
+      "correct": "See",
+      "options": ["Hear", "Touch", "See", "Speak"],
+      "hint": "To use your eyes"
+    },
+    {
+      "id": 38,
+      "word": "Old",
+      "correct": "Ancient",
+      "options": ["New", "Modern", "Ancient", "Fresh"],
+      "hint": "Very old"
+    },
+    {
+      "id": 39,
+      "word": "Tired",
+      "correct": "Exhausted",
+      "options": ["Fresh", "Active", "Exhausted", "Happy"],
+      "hint": "Very tired"
+    },
+    {
+      "id": 40,
+      "word": "Help",
+      "correct": "Assist",
+      "options": ["Harm", "Assist", "Block", "Stop"],
+      "hint": "To give support"
+    },
+    {
+      "id": 41,
+      "word": "Quick",
+      "correct": "Rapid",
+      "options": ["Slow", "Rapid", "Late", "Weak"],
+      "hint": "Moving very fast"
+    },
+    {
+      "id": 42,
+      "word": "Thin",
+      "correct": "Slim",
+      "options": ["Fat", "Thick", "Slim", "Wide"],
+      "hint": "Not thick"
+    },
+    {
+      "id": 43,
+      "word": "Anger",
+      "correct": "Rage",
+      "options": ["Peace", "Rage", "Love", "Joy"],
+      "hint": "Strong feeling of anger"
+    },
+    {
+      "id": 44,
+      "word": "Quiet",
+      "correct": "Calm",
+      "options": ["Loud", "Calm", "Angry", "Fast"],
+      "hint": "Peaceful and still"
+    },
+    {
+      "id": 45,
+      "word": "Hard",
+      "correct": "Difficult",
+      "options": ["Easy", "Soft", "Difficult", "Light"],
+      "hint": "Not easy"
+    },
+    {
+      "id": 46,
+      "word": "Bad",
+      "correct": "Awful",
+      "options": ["Nice", "Good", "Awful", "Kind"],
+      "hint": "Very unpleasant"
+    },
+    {
+      "id": 47,
+      "word": "Love",
+      "correct": "Adore",
+      "options": ["Adore", "Hate", "Ignore", "Fear"],
+      "hint": "To like deeply"
+    },
+    {
+      "id": 48,
+      "word": "Fear",
+      "correct": "Scared",
+      "options": ["Brave", "Scared", "Strong", "Proud"],
+      "hint": "Feeling afraid"
+    },
+    {
+      "id": 49,
+      "word": "Right",
+      "correct": "Correct",
+      "options": ["Wrong", "Correct", "False", "Odd"],
+      "hint": "Free from mistakes"
+    },
+    {
+      "id": 50,
+      "word": "Story",
+      "correct": "Tale",
+      "options": ["Math", "Fact", "Tale", "Chart"],
+      "hint": "A narrative"
+    },
+    {
+      "id": 51,
+      "word": "Jump",
+      "correct": "Leap",
+      "options": ["Sit", "Walk", "Leap", "Crawl"],
+      "hint": "To spring into the air"
+    },
+    {
+      "id": 52,
+      "word": "Weak",
+      "correct": "Fragile",
+      "options": ["Strong", "Fragile", "Tough", "Bold"],
+      "hint": "Easily broken"
+    },
+    {
+      "id": 53,
+      "word": "End",
+      "correct": "Conclusion",
+      "options": ["Start", "Middle", "Conclusion", "Open"],
+      "hint": "The final part"
+    },
+    {
+      "id": 54,
+      "word": "Job",
+      "correct": "Task",
+      "options": ["Game", "Rest", "Task", "Sleep"],
+      "hint": "A piece of work"
+    },
+    {
+      "id": 55,
+      "word": "Hungry",
+      "correct": "Starving",
+      "options": ["Full", "Starving", "Happy", "Lazy"],
+      "hint": "Feeling extreme hunger"
+    },
+    {
+      "id": 56,
+      "word": "Rich",
+      "correct": "Loaded",
+      "options": ["Poor", "Broke", "Loaded", "Empty"],
+      "hint": "Having a lot of money"
+    },
+    {
+      "id": 57,
+      "word": "Build",
+      "correct": "Create",
+      "options": ["Destroy", "Create", "Break", "Lose"],
+      "hint": "To make something"
+    },
+    {
+      "id": 58,
+      "word": "Cheap",
+      "correct": "Inexpensive",
+      "options": ["Costly", "Inexpensive", "Rare", "New"],
+      "hint": "Low in price"
+    },
+    {
+      "id": 59,
+      "word": "Danger",
+      "correct": "Risk",
+      "options": ["Safety", "Peace", "Risk", "Help"],
+      "hint": "Possibility of harm"
+    },
+    {
+      "id": 60,
+      "word": "Help",
+      "correct": "Aid",
+      "options": ["Harm", "Stop", "Aid", "Break"],
+      "hint": "To assist"
+    },
+    {
+      "id": 61,
+      "word": "True",
+      "correct": "Real",
+      "options": ["Fake", "Real", "Wrong", "False"],
+      "hint": "Not imaginary"
+    },
+    {
+      "id": 62,
+      "word": "Try",
+      "correct": "Attempt",
+      "options": ["Quit", "Attempt", "Sleep", "Run"],
+      "hint": "To make an effort"
+    },
+    {
+      "id": 63,
+      "word": "Buy",
+      "correct": "Purchase",
+      "options": ["Sell", "Borrow", "Purchase", "Break"],
+      "hint": "To get by paying money"
+    },
+    {
+      "id": 64,
+      "word": "Throw",
+      "correct": "Toss",
+      "options": ["Catch", "Hold", "Drop", "Toss"],
+      "hint": "To throw lightly"
+    },
+    {
+      "id": 65,
+      "word": "Child",
+      "correct": "Kid",
+      "options": ["Adult", "Old", "Kid", "Parent"],
+      "hint": "A young person"
+    },
+    {
+      "id": 66,
+      "word": "Endless",
+      "correct": "Infinite",
+      "options": ["Finite", "Small", "Infinite", "Tiny"],
+      "hint": "Without limit"
+    },
+    {
+      "id": 67,
+      "word": "Fast",
+      "correct": "Speedy",
+      "options": ["Slow", "Lazy", "Speedy", "Late"],
+      "hint": "Very quick"
+    },
+    {
+      "id": 68,
+      "word": "Talk",
+      "correct": "Speak",
+      "options": ["Listen", "Speak", "Stay", "Sleep"],
+      "hint": "To say words"
+    },
+    {
+      "id": 69,
+      "word": "Fix",
+      "correct": "Repair",
+      "options": ["Break", "Repair", "Lose", "Hide"],
+      "hint": "To make work again"
+    },
+    {
+      "id": 70,
+      "word": "Close",
+      "correct": "Shut",
+      "options": ["Open", "Wide", "Shut", "Free"],
+      "hint": "To block an opening"
+    },
+    {
+      "id": 71,
+      "word": "Gift",
+      "correct": "Present",
+      "options": ["Past", "Present", "Future", "Now"],
+      "hint": "Something given"
+    },
+    {
+      "id": 72,
+      "word": "Nice",
+      "correct": "Kind",
+      "options": ["Rude", "Mean", "Kind", "Cruel"],
+      "hint": "Friendly and caring"
+    },
+    {
+      "id": 73,
+      "word": "Big",
+      "correct": "Huge",
+      "options": ["Tiny", "Huge", "Short", "Narrow"],
+      "hint": "Very large"
+    },
+    {
+      "id": 74,
+      "word": "Funny",
+      "correct": "Amusing",
+      "options": ["Sad", "Boring", "Amusing", "Mad"],
+      "hint": "Making people laugh"
+    },
+    {
+      "id": 75,
+      "word": "Work",
+      "correct": "Labor",
+      "options": ["Play", "Sleep", "Labor", "Talk"],
+      "hint": "Physical or mental effort"
+    },
+    {
+      "id": 76,
+      "word": "Near",
+      "correct": "Close",
+      "options": ["Far", "Wide", "Close", "Distant"],
+      "hint": "Not far away"
+    },
+    {
+      "id": 77,
+      "word": "Old",
+      "correct": "Elderly",
+      "options": ["Young", "Fresh", "New", "Elderly"],
+      "hint": "Advanced in age"
+    },
+    {
+      "id": 78,
+      "word": "Glad",
+      "correct": "Happy",
+      "options": ["Sad", "Angry", "Happy", "Tired"],
+      "hint": "Feeling joy"
+    },
+    {
+      "id": 79,
+      "word": "Smart",
+      "correct": "Clever",
+      "options": ["Dumb", "Slow", "Clever", "Rude"],
+      "hint": "Quick-thinking"
+    },
+    {
+      "id": 80,
+      "word": "Dirty",
+      "correct": "Filthy",
+      "options": ["Clean", "Fresh", "Filthy", "Pure"],
+      "hint": "Very unclean"
+    },
+    {
+      "id": 81,
+      "word": "Dangerous",
+      "correct": "Hazardous",
+      "options": ["Safe", "Hazardous", "Funny", "Easy"],
+      "hint": "Likely to cause harm"
+    }
+  ]
+}
