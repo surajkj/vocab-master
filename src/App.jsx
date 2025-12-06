@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-// import Homepage from './pages/Homepage';
+import Homepage from './pages/Homepage';
 import AboutPage from './pages/AboutPage';
 import SynonymsPage from './pages/SynonymsPage';
 import AntonymsPage from './pages/AntonymsPage';
@@ -16,7 +16,8 @@ function App() {
 
             <main className="container mx-auto px-4 py-8">
                 <Routes>
-                    <Route path="/" element={<SynonymsPage/>}/>
+                    <Route path="/" element={<Homepage/>}/>
+                    <Route path="/vocab-master" element={<Homepage/>}/>
                     <Route path="vocab-master/about" element={<AboutPage/>}/>
                     <Route path="vocab-master/synonyms" element={<SynonymsPage/>}/>
                     <Route path="vocab-master/antonyms" element={<AntonymsPage/>}/>

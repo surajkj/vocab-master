@@ -1,4 +1,3 @@
-// pages/SynonymsPage.jsx
 import { useState, useEffect, useRef } from 'react';
 import { CheckCircle, XCircle, RefreshCw, HelpCircle, Award, TrendingUp, BarChart } from 'lucide-react';
 import synonymsData from '../data/synonyms.json';
