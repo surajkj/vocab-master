@@ -13,6 +13,7 @@ const Navbar = () => {
         { name: 'One-Word Substitution', path: 'vocab-master/one-word-substitution' },
         { name: 'Vocabulary', path: 'vocab-master/vocabulary' },
         { name: 'Idioms & Phrases', path: 'vocab-master/idioms-phrases' },
+        { name: 'Country Capital', path: 'vocab-master/country-capital' },
         { name: 'About', path: 'vocab-master/about' },
     ];
 

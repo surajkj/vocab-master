@@ -8,6 +8,7 @@ import AntonymsPage from './pages/AntonymsPage';
 import OneWordSubstitutionPage from './pages/OneWordSubstitutionPage';
 import VocabularyPage from './pages/VocabularyPage';
 import IdiomsPhrasesPage from './pages/IdiomsPhrasesPage';
+import CountryCapitalPage  from "./pages/CountryCapitalPage.jsx";
 import { loadAllData } from './services/dataService';
 
 function App() {
@@ -48,6 +49,7 @@ function App() {
                     <Route path="vocab-master/one-word-substitution" element={<OneWordSubstitutionPage/>}/>
                     <Route path="vocab-master/vocabulary" element={<VocabularyPage/>}/>
                     <Route path="vocab-master/idioms-phrases" element={<IdiomsPhrasesPage/>}/>
+                    <Route path="vocab-master/country-capital" element={<CountryCapitalPage/>}/>
                 </Routes>
             </main>
         </div>

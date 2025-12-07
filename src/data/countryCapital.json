@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "word": "Japan",
+    "correct": "Tokyo",
+    "options": [
+      "Seoul",
+      "Tokyo",
+      "Taipei",
+      "Osaka"
+    ],
+    "hint": "World's most populous metropolitan area"
+  },
+  {
+    "id": 2,
+    "word": "France",
+    "correct": "Paris",
+    "options": [
+      "Lyon",
+      "Marseille",
+      "Paris",
+      "Nice"
+    ],
+    "hint": "City of Love"
+  },
+  {
+    "id": 3,
+    "word": "Germany",
+    "correct": "Berlin",
+    "options": [
+      "Munich",
+      "Frankfurt",
+      "Hamburg",
+      "Berlin"
+    ],
+    "hint": "Home of the Brandenburg Gate"
+  },
+  {
+    "id": 4,
+    "word": "Italy",
+    "correct": "Rome",
+    "options": [
+      "Venice",
+      "Milan",
+      "Rome",
+      "Naples"
+    ],
+    "hint": "The Eternal City"
+  },
+  {
+    "id": 5,
+    "word": "Canada",
+    "correct": "Ottawa",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "hint": "Not the largest city"
+  },
+  {
+    "id": 6,
+    "word": "Brazil",
+    "correct": "Brasília",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Salvador"
+    ],
+    "hint": "Planned capital city"
+  },
+  {
+    "id": 7,
+    "word": "Australia",
+    "correct": "Canberra",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Perth",
+      "Canberra"
+    ],
+    "hint": "Purpose-built capital"
+  },
+  {
+    "id": 8,
+    "word": "India",
+    "correct": "New Delhi",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Bangalore",
+      "Chennai"
+    ],
+    "hint": "Seat of the Indian government"
+  },
+  {
+    "id": 9,
+    "word": "China",
+    "correct": "Beijing",
+    "options": [
+      "Shanghai",
+      "Beijing",
+      "Guangzhou",
+      "Hong Kong"
+    ],
+    "hint": "Home of the Forbidden City"
+  },
+  {
+    "id": 10,
+    "word": "Russia",
+    "correct": "Moscow",
+    "options": [
+      "Saint Petersburg",
+      "Kazan",
+      "Moscow",
+      "Sochi"
+    ],
+    "hint": "Largest city in Europe"
+  },
+  {
+    "id": 11,
+    "word": "United Kingdom",
+    "correct": "London",
+    "options": [
+      "Manchester",
+      "Birmingham",
+      "Liverpool",
+      "London"
+    ],
+    "hint": "Home of Big Ben"
+  },
+  {
+    "id": 12,
+    "word": "Spain",
+    "correct": "Madrid",
+    "options": [
+      "Barcelona",
+      "Seville",
+      "Madrid",
+      "Valencia"
+    ],
+    "hint": "Located in the center of the country"
+  },
+  {
+    "id": 13,
+    "word": "Mexico",
+    "correct": "Mexico City",
+    "options": [
+      "Guadalajara",
+      "Monterrey",
+      "Cancún",
+      "Mexico City"
+    ],
+    "hint": "One of the largest cities in the world"
+  },
+  {
+    "id": 14,
+    "word": "South Africa",
+    "correct": "Pretoria",
+    "options": [
+      "Cape Town",
+      "Johannesburg",
+      "Pretoria",
+      "Durban"
+    ],
+    "hint": "Administrative capital"
+  },
+  {
+    "id": 15,
+    "word": "Egypt",
+    "correct": "Cairo",
+    "options": [
+      "Giza",
+      "Alexandria",
+      "Cairo",
+      "Luxor"
+    ],
+    "hint": "Near famous pyramids"
+  },
+  {
+    "id": 16,
+    "word": "Argentina",
+    "correct": "Buenos Aires",
+    "options": [
+      "Córdoba",
+      "Rosario",
+      "Buenos Aires",
+      "Mendoza"
+    ],
+    "hint": "Birthplace of tango"
+  },
+  {
+    "id": 17,
+    "word": "Turkey",
+    "correct": "Ankara",
+    "options": [
+      "Istanbul",
+      "Izmir",
+      "Bursa",
+      "Ankara"
+    ],
+    "hint": "Not the most famous city"
+  },
+  {
+    "id": 18,
+    "word": "Saudi Arabia",
+    "correct": "Riyadh",
+    "options": [
+      "Mecca",
+      "Medina",
+      "Jeddah",
+      "Riyadh"
+    ],
+    "hint": "Located in the desert interior"
+  },
+  {
+    "id": 19,
+    "word": "Thailand",
+    "correct": "Bangkok",
+    "options": [
+      "Phuket",
+      "Pattaya",
+      "Bangkok",
+      "Chiang Mai"
+    ],
+    "hint": "Known for ornate temples"
+  },
+  {
+    "id": 20,
+    "word": "Indonesia",
+    "correct": "Jakarta",
+    "options": [
+      "Bali",
+      "Surabaya",
+      "Jakarta",
+      "Medan"
+    ],
+    "hint": "On the island of Java"
+  },
+  {
+    "id": 21,
+    "word": "Norway",
+    "correct": "Oslo",
+    "options": [
+      "Bergen",
+      "Trondheim",
+      "Oslo",
+      "Stavanger"
+    ],
+    "hint": "Famous for fjords"
+  },
+  {
+    "id": 22,
+    "word": "Sweden",
+    "correct": "Stockholm",
+    "options": [
+      "Gothenburg",
+      "Malmö",
+      "Stockholm",
+      "Uppsala"
+    ],
+    "hint": "Built on many islands"
+  },
+  {
+    "id": 23,
+    "word": "Finland",
+    "correct": "Helsinki",
+    "options": [
+      "Turku",
+      "Tampere",
+      "Helsinki",
+      "Oulu"
+    ],
+    "hint": "Known as the land of a thousand lakes"
+  },
+  {
+    "id": 24,
+    "word": "Denmark",
+    "correct": "Copenhagen",
+    "options": [
+      "Aarhus",
+      "Odense",
+      "Copenhagen",
+      "Aalborg"
+    ],
+    "hint": "Home of the Little Mermaid statue"
+  },
+  {
+    "id": 25,
+    "word": "Netherlands",
+    "correct": "Amsterdam",
+    "options": [
+      "Rotterdam",
+      "The Hague",
+      "Utrecht",
+      "Amsterdam"
+    ],
+    "hint": "Famous for canals"
+  },
+  {
+    "id": 26,
+    "word": "Belgium",
+    "correct": "Brussels",
+    "options": [
+      "Antwerp",
+      "Ghent",
+      "Bruges",
+      "Brussels"
+    ],
+    "hint": "Capital of the EU"
+  },
+  {
+    "id": 27,
+    "word": "Switzerland",
+    "correct": "Bern",
+    "options": [
+      "Zurich",
+      "Geneva",
+      "Basel",
+      "Bern"
+    ],
+    "hint": "Not the largest city"
+  },
+  {
+    "id": 28,
+    "word": "Austria",
+    "correct": "Vienna",
+    "options": [
+      "Salzburg",
+      "Graz",
+      "Vienna",
+      "Innsbruck"
+    ],
+    "hint": "City of classical music"
+  },
+  {
+    "id": 29,
+    "word": "Portugal",
+    "correct": "Lisbon",
+    "options": [
+      "Porto",
+      "Braga",
+      "Coimbra",
+      "Lisbon"
+    ],
+    "hint": "Built on seven hills"
+  },
+  {
+    "id": 30,
+    "word": "Greece",
+    "correct": "Athens",
+    "options": [
+      "Thessaloniki",
+      "Patras",
+      "Heraklion",
+      "Athens"
+    ],
+    "hint": "Birthplace of democracy"
+  },
+  {
+    "id": 31,
+    "word": "Poland",
+    "correct": "Warsaw",
+    "options": [
+      "Kraków",
+      "Gdańsk",
+      "Poznań",
+      "Warsaw"
+    ],
+    "hint": "Rebuilt after WWII"
+  },
+  {
+    "id": 32,
+    "word": "Czech Republic",
+    "correct": "Prague",
+    "options": [
+      "Brno",
+      "Ostrava",
+      "Plzen",
+      "Prague"
+    ],
+    "hint": "City of a hundred spires"
+  },
+  {
+    "id": 33,
+    "word": "Hungary",
+    "correct": "Budapest",
+    "options": [
+      "Debrecen",
+      "Szeged",
+      "Miskolc",
+      "Budapest"
+    ],
+    "hint": "Divided by the Danube River"
+  },
+  {
+    "id": 34,
+    "word": "Ireland",
+    "correct": "Dublin",
+    "options": [
+      "Cork",
+      "Galway",
+      "Limerick",
+      "Dublin"
+    ],
+    "hint": "Home of the Guinness Storehouse"
+  },
+  {
+    "id": 35,
+    "word": "Scotland",
+    "correct": "Edinburgh",
+    "options": [
+      "Glasgow",
+      "Aberdeen",
+      "Dundee",
+      "Edinburgh"
+    ],
+    "hint": "Famous for its castle"
+  },
+  {
+    "id": 36,
+    "word": "Iceland",
+    "correct": "Reykjavík",
+    "options": [
+      "Akureyri",
+      "Hafnarfjordur",
+      "Keflavik",
+      "Reykjavík"
+    ],
+    "hint": "World’s northernmost capital"
+  },
+  {
+    "id": 37,
+    "word": "New Zealand",
+    "correct": "Wellington",
+    "options": [
+      "Auckland",
+      "Christchurch",
+      "Dunedin",
+      "Wellington"
+    ],
+    "hint": "Windy capital"
+  },
+  {
+    "id": 38,
+    "word": "South Korea",
+    "correct": "Seoul",
+    "options": [
+      "Busan",
+      "Incheon",
+      "Daegu",
+      "Seoul"
+    ],
+    "hint": "One of the world’s largest cities"
+  },
+  {
+    "id": 39,
+    "word": "Vietnam",
+    "correct": "Hanoi",
+    "options": [
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Hue",
+      "Hanoi"
+    ],
+    "hint": "Oldest capital in Southeast Asia"
+  },
+  {
+    "id": 40,
+    "word": "Philippines",
+    "correct": "Manila",
+    "options": [
+      "Cebu",
+      "Davao",
+      "Quezon City",
+      "Manila"
+    ],
+    "hint": "Along Manila Bay"
+  },
+  {
+    "id": 41,
+    "word": "Pakistan",
+    "correct": "Islamabad",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Peshawar",
+      "Islamabad"
+    ],
+    "hint": "Planned capital city"
+  },
+  {
+    "id": 42,
+    "word": "Bangladesh",
+    "correct": "Dhaka",
+    "options": [
+      "Chittagong",
+      "Khulna",
+      "Sylhet",
+      "Dhaka"
+    ],
+    "hint": "One of the most densely populated cities"
+  },
+  {
+    "id": 43,
+    "word": "Sri Lanka",
+    "correct": "Sri Jayawardenepura Kotte",
+    "options": [
+      "Colombo",
+      "Kandy",
+      "Galle",
+      "Sri Jayawardenepura Kotte"
+    ],
+    "hint": "Near Colombo"
+  },
+  {
+    "id": 44,
+    "word": "Nepal",
+    "correct": "Kathmandu",
+    "options": [
+      "Pokhara",
+      "Biratnagar",
+      "Lalitpur",
+      "Kathmandu"
+    ],
+    "hint": "Near Mount Everest"
+  },
+  {
+    "id": 45,
+    "word": "Morocco",
+    "correct": "Rabat",
+    "options": [
+      "Casablanca",
+      "Marrakech",
+      "Fes",
+      "Rabat"
+    ],
+    "hint": "On the Atlantic coast"
+  },
+  {
+    "id": 46,
+    "word": "Nigeria",
+    "correct": "Abuja",
+    "options": [
+      "Lagos",
+      "Ibadan",
+      "Kano",
+      "Abuja"
+    ],
+    "hint": "Purpose-built capital"
+  },
+  {
+    "id": 47,
+    "word": "Kenya",
+    "correct": "Nairobi",
+    "options": [
+      "Mombasa",
+      "Kisumu",
+      "Nakuru",
+      "Nairobi"
+    ],
+    "hint": "Known as the Green City in the Sun"
+  },
+  {
+    "id": 48,
+    "word": "Ghana",
+    "correct": "Accra",
+    "options": [
+      "Kumasi",
+      "Tamale",
+      "Takoradi",
+      "Accra"
+    ],
+    "hint": "On the Gulf of Guinea"
+  },
+  {
+    "id": 49,
+    "word": "Peru",
+    "correct": "Lima",
+    "options": [
+      "Cusco",
+      "Arequipa",
+      "Trujillo",
+      "Lima"
+    ],
+    "hint": "On the Pacific coast"
+  },
+  {
+    "id": 50,
+    "word": "Chile",
+    "correct": "Santiago",
+    "options": [
+      "Valparaíso",
+      "Concepción",
+      "La Serena",
+      "Santiago"
+    ],
+    "hint": "Near the Andes Mountains"
+  },
+  {
+    "id": 51,
+    "word": "United States",
+    "correct": "Washington, D.C.",
+    "options": [
+      "New York",
+      "Los Angeles",
+      "Chicago",
+      "Washington, D.C."
+    ],
+    "hint": "Home of the White House"
+  },
+  {
+    "id": 52,
+    "word": "Cuba",
+    "correct": "Havana",
+    "options": [
+      "Santiago de Cuba",
+      "Varadero",
+      "Havana",
+      "Trinidad"
+    ],
+    "hint": "Classic cars and cigars"
+  },
+  {
+    "id": 53,
+    "word": "Panama",
+    "correct": "Panama City",
+    "options": [
+      "Colón",
+      "David",
+      "Chitré",
+      "Panama City"
+    ],
+    "hint": "Famous shipping canal"
+  },
+  {
+    "id": 54,
+    "word": "Colombia",
+    "correct": "Bogotá",
+    "options": [
+      "Medellín",
+      "Cali",
+      "Cartagena",
+      "Bogotá"
+    ],
+    "hint": "High-altitude capital"
+  },
+  {
+    "id": 55,
+    "word": "Venezuela",
+    "correct": "Caracas",
+    "options": [
+      "Maracaibo",
+      "Valencia",
+      "Barquisimeto",
+      "Caracas"
+    ],
+    "hint": "Near the Caribbean coast"
+  },
+  {
+    "id": 56,
+    "word": "Ecuador",
+    "correct": "Quito",
+    "options": [
+      "Guayaquil",
+      "Cuenca",
+      "Loja",
+      "Quito"
+    ],
+    "hint": "On the equator"
+  },
+  {
+    "id": 57,
+    "word": "Bolivia",
+    "correct": "Sucre",
+    "options": [
+      "La Paz",
+      "Santa Cruz",
+      "Cochabamba",
+      "Sucre"
+    ],
+    "hint": "Constitutional capital"
+  },
+  {
+    "id": 58,
+    "word": "Paraguay",
+    "correct": "Asunción",
+    "options": [
+      "Encarnación",
+      "Luque",
+      "Ciudad del Este",
+      "Asunción"
+    ],
+    "hint": "Along the Paraguay River"
+  },
+  {
+    "id": 59,
+    "word": "Uruguay",
+    "correct": "Montevideo",
+    "options": [
+      "Punta del Este",
+      "Colonia",
+      "Salto",
+      "Montevideo"
+    ],
+    "hint": "On the Río de la Plata"
+  },
+  {
+    "id": 60,
+    "word": "Guyana",
+    "correct": "Georgetown",
+    "options": [
+      "Linden",
+      "New Amsterdam",
+      "Bartica",
+      "Georgetown"
+    ],
+    "hint": "Only English-speaking country in South America"
+  },
+  {
+    "id": 61,
+    "word": "Iran",
+    "correct": "Tehran",
+    "options": [
+      "Isfahan",
+      "Shiraz",
+      "Tabriz",
+      "Tehran"
+    ],
+    "hint": "At the foot of the Alborz Mountains"
+  },
+  {
+    "id": 62,
+    "word": "Iraq",
+    "correct": "Baghdad",
+    "options": [
+      "Basra",
+      "Mosul",
+      "Erbil",
+      "Baghdad"
+    ],
+    "hint": "Along the Tigris River"
+  },
+  {
+    "id": 63,
+    "word": "Israel",
+    "correct": "Jerusalem",
+    "options": [
+      "Tel Aviv",
+      "Haifa",
+      "Eilat",
+      "Jerusalem"
+    ],
+    "hint": "Holy city for three religions"
+  },
+  {
+    "id": 64,
+    "word": "Jordan",
+    "correct": "Amman",
+    "options": [
+      "Aqaba",
+      "Zarqa",
+      "Madaba",
+      "Amman"
+    ],
+    "hint": "Built on seven hills"
+  },
+  {
+    "id": 65,
+    "word": "Lebanon",
+    "correct": "Beirut",
+    "options": [
+      "Tripoli",
+      "Sidon",
+      "Tyre",
+      "Beirut"
+    ],
+    "hint": "Paris of the Middle East (historically)"
+  },
+  {
+    "id": 66,
+    "word": "Syria",
+    "correct": "Damascus",
+    "options": [
+      "Aleppo",
+      "Homs",
+      "Latakia",
+      "Damascus"
+    ],
+    "hint": "One of the oldest cities in the world"
+  },
+  {
+    "id": 67,
+    "word": "United Arab Emirates",
+    "correct": "Abu Dhabi",
+    "options": [
+      "Dubai",
+      "Sharjah",
+      "Ajman",
+      "Abu Dhabi"
+    ],
+    "hint": "Largest emirate"
+  },
+  {
+    "id": 68,
+    "word": "Qatar",
+    "correct": "Doha",
+    "options": [
+      "Al Rayyan",
+      "Lusail",
+      "Al Wakrah",
+      "Doha"
+    ],
+    "hint": "Hosted the 2022 World Cup"
+  },
+  {
+    "id": 69,
+    "word": "Kuwait",
+    "correct": "Kuwait City",
+    "options": [
+      "Salmiya",
+      "Hawally",
+      "Farwaniya",
+      "Kuwait City"
+    ],
+    "hint": "On the Persian Gulf"
+  },
+  {
+    "id": 70,
+    "word": "Oman",
+    "correct": "Muscat",
+    "options": [
+      "Salalah",
+      "Nizwa",
+      "Sohar",
+      "Muscat"
+    ],
+    "hint": "Port city on the Gulf of Oman"
+  },
+  {
+    "id": 71,
+    "word": "Ethiopia",
+    "correct": "Addis Ababa",
+    "options": [
+      "Gondar",
+      "Mekelle",
+      "Adama",
+      "Addis Ababa"
+    ],
+    "hint": "Political capital of Africa"
+  },
+  {
+    "id": 72,
+    "word": "Uganda",
+    "correct": "Kampala",
+    "options": [
+      "Entebbe",
+      "Jinja",
+      "Mbale",
+      "Kampala"
+    ],
+    "hint": "Near Lake Victoria"
+  },
+  {
+    "id": 73,
+    "word": "Tanzania",
+    "correct": "Dodoma",
+    "options": [
+      "Dar es Salaam",
+      "Arusha",
+      "Mwanza",
+      "Dodoma"
+    ],
+    "hint": "In the center of the country"
+  },
+  {
+    "id": 74,
+    "word": "Rwanda",
+    "correct": "Kigali",
+    "options": [
+      "Butare",
+      "Gisenyi",
+      "Musanze",
+      "Kigali"
+    ],
+    "hint": "Very clean city"
+  },
+  {
+    "id": 75,
+    "word": "Senegal",
+    "correct": "Dakar",
+    "options": [
+      "Saint-Louis",
+      "Thiès",
+      "Kaolack",
+      "Dakar"
+    ],
+    "hint": "Westernmost city of Africa"
+  },
+  {
+    "id": 76,
+    "word": "Ivory Coast",
+    "correct": "Yamoussoukro",
+    "options": [
+      "Abidjan",
+      "Bouaké",
+      "Daloa",
+      "Yamoussoukro"
+    ],
+    "hint": "Capital with huge basilica"
+  },
+  {
+    "id": 77,
+    "word": "Cameroon",
+    "correct": "Yaoundé",
+    "options": [
+      "Douala",
+      "Bamenda",
+      "Garoua",
+      "Yaoundé"
+    ],
+    "hint": "Planned inland capital"
+  },
+  {
+    "id": 78,
+    "word": "Angola",
+    "correct": "Luanda",
+    "options": [
+      "Huambo",
+      "Lobito",
+      "Benguela",
+      "Luanda"
+    ],
+    "hint": "Atlantic port capital"
+  },
+  {
+    "id": 79,
+    "word": "Mozambique",
+    "correct": "Maputo",
+    "options": [
+      "Beira",
+      "Nampula",
+      "Chimoio",
+      "Maputo"
+    ],
+    "hint": "Near South Africa"
+  },
+  {
+    "id": 80,
+    "word": "Zambia",
+    "correct": "Lusaka",
+    "options": [
+      "Ndola",
+      "Kitwe",
+      "Livingstone",
+      "Lusaka"
+    ],
+    "hint": "Near Victoria Falls region"
+  },
+  {
+    "id": 81,
+    "word": "Zimbabwe",
+    "correct": "Harare",
+    "options": [
+      "Bulawayo",
+      "Gweru",
+      "Mutare",
+      "Harare"
+    ],
+    "hint": "Formerly called Salisbury"
+  },
+  {
+    "id": 82,
+    "word": "Botswana",
+    "correct": "Gaborone",
+    "options": [
+      "Francistown",
+      "Maun",
+      "Serowe",
+      "Gaborone"
+    ],
+    "hint": "Near the South African border"
+  },
+  {
+    "id": 83,
+    "word": "Namibia",
+    "correct": "Windhoek",
+    "options": [
+      "Swakopmund",
+      "Walvis Bay",
+      "Otjiwarongo",
+      "Windhoek"
+    ],
+    "hint": "In central Namibia"
+  },
+  {
+    "id": 84,
+    "word": "Madagascar",
+    "correct": "Antananarivo",
+    "options": [
+      "Toamasina",
+      "Mahajanga",
+      "Fianarantsoa",
+      "Antananarivo"
+    ],
+    "hint": "Large island nation"
+  },
+  {
+    "id": 85,
+    "word": "Malawi",
+    "correct": "Lilongwe",
+    "options": [
+      "Blantyre",
+      "Mzuzu",
+      "Zomba",
+      "Lilongwe"
+    ],
+    "hint": "Not the largest city"
+  },
+  {
+    "id": 86,
+    "word": "Kazakhstan",
+    "correct": "Astana",
+    "options": [
+      "Almaty",
+      "Shymkent",
+      "Karaganda",
+      "Astana"
+    ],
+    "hint": "Cold modern capital"
+  },
+  {
+    "id": 87,
+    "word": "Uzbekistan",
+    "correct": "Tashkent",
+    "options": [
+      "Samarkand",
+      "Bukhara",
+      "Nukus",
+      "Tashkent"
+    ],
+    "hint": "Largest city in Central Asia"
+  },
+  {
+    "id": 88,
+    "word": "Turkmenistan",
+    "correct": "Ashgabat",
+    "options": [
+      "Türkmenabat",
+      "Dashoguz",
+      "Mary",
+      "Ashgabat"
+    ],
+    "hint": "White marble city"
+  },
+  {
+    "id": 89,
+    "word": "Mongolia",
+    "correct": "Ulaanbaatar",
+    "options": [
+      "Erdenet",
+      "Darkhan",
+      "Choibalsan",
+      "Ulaanbaatar"
+    ],
+    "hint": "Coldest capital city"
+  },
+  {
+    "id": 90,
+    "word": "Laos",
+    "correct": "Vientiane",
+    "options": [
+      "Luang Prabang",
+      "Pakse",
+      "Savannakhet",
+      "Vientiane"
+    ],
+    "hint": "Small, riverside capital"
+  },
+  {
+    "id": 91,
+    "word": "Cambodia",
+    "correct": "Phnom Penh",
+    "options": [
+      "Siem Reap",
+      "Battambang",
+      "Sihanoukville",
+      "Phnom Penh"
+    ],
+    "hint": "At the Mekong River"
+  },
+  {
+    "id": 92,
+    "word": "Myanmar",
+    "correct": "Naypyidaw",
+    "options": [
+      "Yangon",
+      "Mandalay",
+      "Bago",
+      "Naypyidaw"
+    ],
+    "hint": "Purpose-built capital"
+  },
+  {
+    "id": 93,
+    "word": "Malaysia",
+    "correct": "Kuala Lumpur",
+    "options": [
+      "Putrajaya",
+      "Johor Bahru",
+      "Penang",
+      "Kuala Lumpur"
+    ],
+    "hint": "Petronas Towers"
+  },
+  {
+    "id": 94,
+    "word": "Singapore",
+    "correct": "Singapore",
+    "options": [
+      "Jurong",
+      "Tampines",
+      "Woodlands",
+      "Singapore"
+    ],
+    "hint": "City-state"
+  },
+  {
+    "id": 95,
+    "word": "Brunei",
+    "correct": "Bandar Seri Begawan",
+    "options": [
+      "Tutong",
+      "Kuala Belait",
+      "Seria",
+      "Bandar Seri Begawan"
+    ],
+    "hint": "Very small capital"
+  },
+  {
+    "id": 96,
+    "word": "Papua New Guinea",
+    "correct": "Port Moresby",
+    "options": [
+      "Lae",
+      "Madang",
+      "Goroka",
+      "Port Moresby"
+    ],
+    "hint": "On the southern coast"
+  },
+  {
+    "id": 97,
+    "word": "Fiji",
+    "correct": "Suva",
+    "options": [
+      "Nadi",
+      "Lautoka",
+      "Levuka",
+      "Suva"
+    ],
+    "hint": "Pacific island capital"
+  },
+  {
+    "id": 98,
+    "word": "Samoa",
+    "correct": "Apia",
+    "options": [
+      "Mulifanua",
+      "Asau",
+      "Safotu",
+      "Apia"
+    ],
+    "hint": "On the island of Upolu"
+  },
+  {
+    "id": 99,
+    "word": "Tonga",
+    "correct": "Nukuʻalofa",
+    "options": [
+      "Neiafu",
+      "Hihifo",
+      "Kolonga",
+      "Nukuʻalofa"
+    ],
+    "hint": "Only Pacific kingdom"
+  },
+  {
+    "id": 100,
+    "word": "Solomon Islands",
+    "correct": "Honiara",
+    "options": [
+      "Gizo",
+      "Auki",
+      "Tulagi",
+      "Honiara"
+    ],
+    "hint": "On Guadalcanal Island"
+  }
+]
