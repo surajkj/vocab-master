@@ -4,7 +4,7 @@
     "name": "Afghanistan",
     "capital": "Kabul",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/af.png",
+    "flagUrl": "/vocab-master/flags/af.png",
     "emoji": "🇦🇫"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Albania",
     "capital": "Tirana",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/al.png",
+    "flagUrl": "/vocab-master/flags/al.png",
     "emoji": "🇦🇱"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Algeria",
     "capital": "Algiers",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/dz.png",
+    "flagUrl": "/vocab-master/flags/dz.png",
     "emoji": "🇩🇿"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Andorra",
     "capital": "Andorra la Vella",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/ad.png",
+    "flagUrl": "/vocab-master/flags/ad.png",
     "emoji": "🇦🇩"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Angola",
     "capital": "Luanda",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ao.png",
+    "flagUrl": "/vocab-master/flags/ao.png",
     "emoji": "🇦🇴"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Antigua and Barbuda",
     "capital": "Saint John's",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/ag.png",
+    "flagUrl": "/vocab-master/flags/ag.png",
     "emoji": "🇦🇬"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Argentina",
     "capital": "Buenos Aires",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/ar.png",
+    "flagUrl": "/vocab-master/flags/ar.png",
     "emoji": "🇦🇷"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Armenia",
     "capital": "Yerevan",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/am.png",
+    "flagUrl": "/vocab-master/flags/am.png",
     "emoji": "🇦🇲"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Australia",
     "capital": "Canberra",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/au.png",
+    "flagUrl": "/vocab-master/flags/au.png",
     "emoji": "🇦🇺"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Austria",
     "capital": "Vienna",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/at.png",
+    "flagUrl": "/vocab-master/flags/at.png",
     "emoji": "🇦🇹"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Azerbaijan",
     "capital": "Baku",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/az.png",
+    "flagUrl": "/vocab-master/flags/az.png",
     "emoji": "🇦🇿"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Bahamas",
     "capital": "Nassau",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/bs.png",
+    "flagUrl": "/vocab-master/flags/bs.png",
     "emoji": "🇧🇸"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Bahrain",
     "capital": "Manama",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/bh.png",
+    "flagUrl": "/vocab-master/flags/bh.png",
     "emoji": "🇧🇭"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Bangladesh",
     "capital": "Dhaka",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/bd.png",
+    "flagUrl": "/vocab-master/flags/bd.png",
     "emoji": "🇧🇩"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Barbados",
     "capital": "Bridgetown",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/bb.png",
+    "flagUrl": "/vocab-master/flags/bb.png",
     "emoji": "🇧🇧"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Belarus",
     "capital": "Minsk",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/by.png",
+    "flagUrl": "/vocab-master/flags/by.png",
     "emoji": "🇧🇾"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Belgium",
     "capital": "Brussels",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/be.png",
+    "flagUrl": "/vocab-master/flags/be.png",
     "emoji": "🇧🇪"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Belize",
     "capital": "Belmopan",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/bz.png",
+    "flagUrl": "/vocab-master/flags/bz.png",
     "emoji": "🇧🇿"
   },
   {
@@ -148,7 +148,7 @@
     "name": "Benin",
     "capital": "Porto-Novo",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/bj.png",
+    "flagUrl": "/vocab-master/flags/bj.png",
     "emoji": "🇧🇯"
   },
   {
@@ -156,7 +156,7 @@
     "name": "Bhutan",
     "capital": "Thimphu",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/bt.png",
+    "flagUrl": "/vocab-master/flags/bt.png",
     "emoji": "🇧🇹"
   },
   {
@@ -164,7 +164,7 @@
     "name": "Bolivia",
     "capital": "Sucre",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/bo.png",
+    "flagUrl": "/vocab-master/flags/bo.png",
     "emoji": "🇧🇴"
   },
   {
@@ -172,7 +172,7 @@
     "name": "Bosnia and Herzegovina",
     "capital": "Sarajevo",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/ba.png",
+    "flagUrl": "/vocab-master/flags/ba.png",
     "emoji": "🇧🇦"
   },
   {
@@ -180,7 +180,7 @@
     "name": "Botswana",
     "capital": "Gaborone",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/bw.png",
+    "flagUrl": "/vocab-master/flags/bw.png",
     "emoji": "🇧🇼"
   },
   {
@@ -188,7 +188,7 @@
     "name": "Brazil",
     "capital": "Brasília",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/br.png",
+    "flagUrl": "/vocab-master/flags/br.png",
     "emoji": "🇧🇷"
   },
   {
@@ -196,7 +196,7 @@
     "name": "Brunei",
     "capital": "Bandar Seri Begawan",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/bn.png",
+    "flagUrl": "/vocab-master/flags/bn.png",
     "emoji": "🇧🇳"
   },
   {
@@ -204,7 +204,7 @@
     "name": "Bulgaria",
     "capital": "Sofia",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/bg.png",
+    "flagUrl": "/vocab-master/flags/bg.png",
     "emoji": "🇧🇬"
   },
   {
@@ -212,7 +212,7 @@
     "name": "Burkina Faso",
     "capital": "Ouagadougou",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/bf.png",
+    "flagUrl": "/vocab-master/flags/bf.png",
     "emoji": "🇧🇫"
   },
   {
@@ -220,7 +220,7 @@
     "name": "Burundi",
     "capital": "Gitega",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/bi.png",
+    "flagUrl": "/vocab-master/flags/bi.png",
     "emoji": "🇧🇮"
   },
   {
@@ -228,7 +228,7 @@
     "name": "Cabo Verde",
     "capital": "Praia",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/cv.png",
+    "flagUrl": "/vocab-master/flags/cv.png",
     "emoji": "🇨🇻"
   },
   {
@@ -236,7 +236,7 @@
     "name": "Cambodia",
     "capital": "Phnom Penh",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/kh.png",
+    "flagUrl": "/vocab-master/flags/kh.png",
     "emoji": "🇰🇭"
   },
   {
@@ -244,7 +244,7 @@
     "name": "Cameroon",
     "capital": "Yaoundé",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/cm.png",
+    "flagUrl": "/vocab-master/flags/cm.png",
     "emoji": "🇨🇲"
   },
   {
@@ -252,7 +252,7 @@
     "name": "Canada",
     "capital": "Ottawa",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/ca.png",
+    "flagUrl": "/vocab-master/flags/ca.png",
     "emoji": "🇨🇦"
   },
   {
@@ -260,7 +260,7 @@
     "name": "Central African Republic",
     "capital": "Bangui",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/cf.png",
+    "flagUrl": "/vocab-master/flags/cf.png",
     "emoji": "🇨🇫"
   },
   {
@@ -268,7 +268,7 @@
     "name": "Chad",
     "capital": "N'Djamena",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/td.png",
+    "flagUrl": "/vocab-master/flags/td.png",
     "emoji": "🇹🇩"
   },
   {
@@ -276,7 +276,7 @@
     "name": "Chile",
     "capital": "Santiago",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/cl.png",
+    "flagUrl": "/vocab-master/flags/cl.png",
     "emoji": "🇨🇱"
   },
   {
@@ -284,7 +284,7 @@
     "name": "China",
     "capital": "Beijing",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/cn.png",
+    "flagUrl": "/vocab-master/flags/cn.png",
     "emoji": "🇨🇳"
   },
   {
@@ -292,7 +292,7 @@
     "name": "Colombia",
     "capital": "Bogotá",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/co.png",
+    "flagUrl": "/vocab-master/flags/co.png",
     "emoji": "🇨🇴"
   },
   {
@@ -300,7 +300,7 @@
     "name": "Comoros",
     "capital": "Moroni",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/km.png",
+    "flagUrl": "/vocab-master/flags/km.png",
     "emoji": "🇰🇲"
   },
   {
@@ -308,7 +308,7 @@
     "name": "Costa Rica",
     "capital": "San José",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/cr.png",
+    "flagUrl": "/vocab-master/flags/cr.png",
     "emoji": "🇨🇷"
   },
   {
@@ -316,7 +316,7 @@
     "name": "Côte d'Ivoire",
     "capital": "Yamoussoukro",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ci.png",
+    "flagUrl": "/vocab-master/flags/ci.png",
     "emoji": "🇨🇮"
   },
   {
@@ -324,7 +324,7 @@
     "name": "Croatia",
     "capital": "Zagreb",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/hr.png",
+    "flagUrl": "/vocab-master/flags/hr.png",
     "emoji": "🇭🇷"
   },
   {
@@ -332,7 +332,7 @@
     "name": "Cuba",
     "capital": "Havana",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/cu.png",
+    "flagUrl": "/vocab-master/flags/cu.png",
     "emoji": "🇨🇺"
   },
   {
@@ -340,7 +340,7 @@
     "name": "Cyprus",
     "capital": "Nicosia",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/cy.png",
+    "flagUrl": "/vocab-master/flags/cy.png",
     "emoji": "🇨🇾"
   },
   {
@@ -348,7 +348,7 @@
     "name": "Czechia",
     "capital": "Prague",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/cz.png",
+    "flagUrl": "/vocab-master/flags/cz.png",
     "emoji": "🇨🇿"
   },
   {
@@ -356,7 +356,7 @@
     "name": "Democratic Republic of the Congo",
     "capital": "Kinshasa",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/cd.png",
+    "flagUrl": "/vocab-master/flags/cd.png",
     "emoji": "🇨🇩"
   },
   {
@@ -364,7 +364,7 @@
     "name": "Denmark",
     "capital": "Copenhagen",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/dk.png",
+    "flagUrl": "/vocab-master/flags/dk.png",
     "emoji": "🇩🇰"
   },
   {
@@ -372,7 +372,7 @@
     "name": "Djibouti",
     "capital": "Djibouti",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/dj.png",
+    "flagUrl": "/vocab-master/flags/dj.png",
     "emoji": "🇩🇯"
   },
   {
@@ -380,7 +380,7 @@
     "name": "Dominica",
     "capital": "Roseau",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/dm.png",
+    "flagUrl": "/vocab-master/flags/dm.png",
     "emoji": "🇩🇲"
   },
   {
@@ -388,7 +388,7 @@
     "name": "Dominican Republic",
     "capital": "Santo Domingo",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/do.png",
+    "flagUrl": "/vocab-master/flags/do.png",
     "emoji": "🇩🇴"
   },
   {
@@ -396,7 +396,7 @@
     "name": "Ecuador",
     "capital": "Quito",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/ec.png",
+    "flagUrl": "/vocab-master/flags/ec.png",
     "emoji": "🇪🇨"
   },
   {
@@ -404,7 +404,7 @@
     "name": "Egypt",
     "capital": "Cairo",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/eg.png",
+    "flagUrl": "/vocab-master/flags/eg.png",
     "emoji": "🇪🇬"
   },
   {
@@ -412,7 +412,7 @@
     "name": "El Salvador",
     "capital": "San Salvador",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/sv.png",
+    "flagUrl": "/vocab-master/flags/sv.png",
     "emoji": "🇸🇻"
   },
   {
@@ -420,7 +420,7 @@
     "name": "Equatorial Guinea",
     "capital": "Malabo",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/gq.png",
+    "flagUrl": "/vocab-master/flags/gq.png",
     "emoji": "🇬🇶"
   },
   {
@@ -428,7 +428,7 @@
     "name": "Eritrea",
     "capital": "Asmara",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/er.png",
+    "flagUrl": "/vocab-master/flags/er.png",
     "emoji": "🇪🇷"
   },
   {
@@ -436,7 +436,7 @@
     "name": "Estonia",
     "capital": "Tallinn",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/ee.png",
+    "flagUrl": "/vocab-master/flags/ee.png",
     "emoji": "🇪🇪"
   },
   {
@@ -444,7 +444,7 @@
     "name": "Eswatini",
     "capital": "Mbabane",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/sz.png",
+    "flagUrl": "/vocab-master/flags/sz.png",
     "emoji": "🇸🇿"
   },
   {
@@ -452,7 +452,7 @@
     "name": "Ethiopia",
     "capital": "Addis Ababa",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/et.png",
+    "flagUrl": "/vocab-master/flags/et.png",
     "emoji": "🇪🇹"
   },
   {
@@ -460,7 +460,7 @@
     "name": "Fiji",
     "capital": "Suva",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/fj.png",
+    "flagUrl": "/vocab-master/flags/fj.png",
     "emoji": "🇫🇯"
   },
   {
@@ -468,7 +468,7 @@
     "name": "Finland",
     "capital": "Helsinki",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/fi.png",
+    "flagUrl": "/vocab-master/flags/fi.png",
     "emoji": "🇫🇮"
   },
   {
@@ -476,7 +476,7 @@
     "name": "France",
     "capital": "Paris",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/fr.png",
+    "flagUrl": "/vocab-master/flags/fr.png",
     "emoji": "🇫🇷"
   },
   {
@@ -484,7 +484,7 @@
     "name": "Gabon",
     "capital": "Libreville",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ga.png",
+    "flagUrl": "/vocab-master/flags/ga.png",
     "emoji": "🇬🇦"
   },
   {
@@ -492,7 +492,7 @@
     "name": "Gambia",
     "capital": "Banjul",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/gm.png",
+    "flagUrl": "/vocab-master/flags/gm.png",
     "emoji": "🇬🇲"
   },
   {
@@ -500,7 +500,7 @@
     "name": "Georgia",
     "capital": "Tbilisi",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/ge.png",
+    "flagUrl": "/vocab-master/flags/ge.png",
     "emoji": "🇬🇪"
   },
   {
@@ -508,7 +508,7 @@
     "name": "Germany",
     "capital": "Berlin",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/de.png",
+    "flagUrl": "/vocab-master/flags/de.png",
     "emoji": "🇩🇪"
   },
   {
@@ -516,7 +516,7 @@
     "name": "Ghana",
     "capital": "Accra",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/gh.png",
+    "flagUrl": "/vocab-master/flags/gh.png",
     "emoji": "🇬🇭"
   },
   {
@@ -524,7 +524,7 @@
     "name": "Greece",
     "capital": "Athens",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/gr.png",
+    "flagUrl": "/vocab-master/flags/gr.png",
     "emoji": "🇬🇷"
   },
   {
@@ -532,7 +532,7 @@
     "name": "Grenada",
     "capital": "St. George's",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/gd.png",
+    "flagUrl": "/vocab-master/flags/gd.png",
     "emoji": "🇬🇩"
   },
   {
@@ -540,7 +540,7 @@
     "name": "Guatemala",
     "capital": "Guatemala City",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/gt.png",
+    "flagUrl": "/vocab-master/flags/gt.png",
     "emoji": "🇬🇹"
   },
   {
@@ -548,7 +548,7 @@
     "name": "Guinea",
     "capital": "Conakry",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/gn.png",
+    "flagUrl": "/vocab-master/flags/gn.png",
     "emoji": "🇬🇳"
   },
   {
@@ -556,7 +556,7 @@
     "name": "Guinea-Bissau",
     "capital": "Bissau",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/gw.png",
+    "flagUrl": "/vocab-master/flags/gw.png",
     "emoji": "🇬🇼"
   },
   {
@@ -564,7 +564,7 @@
     "name": "Guyana",
     "capital": "Georgetown",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/gy.png",
+    "flagUrl": "/vocab-master/flags/gy.png",
     "emoji": "🇬🇾"
   },
   {
@@ -572,7 +572,7 @@
     "name": "Haiti",
     "capital": "Port-au-Prince",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/ht.png",
+    "flagUrl": "/vocab-master/flags/ht.png",
     "emoji": "🇭🇹"
   },
   {
@@ -580,7 +580,7 @@
     "name": "Honduras",
     "capital": "Tegucigalpa",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/hn.png",
+    "flagUrl": "/vocab-master/flags/hn.png",
     "emoji": "🇭🇳"
   },
   {
@@ -588,7 +588,7 @@
     "name": "Hungary",
     "capital": "Budapest",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/hu.png",
+    "flagUrl": "/vocab-master/flags/hu.png",
     "emoji": "🇭🇺"
   },
   {
@@ -596,7 +596,7 @@
     "name": "Iceland",
     "capital": "Reykjavík",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/is.png",
+    "flagUrl": "/vocab-master/flags/is.png",
     "emoji": "🇮🇸"
   },
   {
@@ -604,7 +604,7 @@
     "name": "India",
     "capital": "New Delhi",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/in.png",
+    "flagUrl": "/vocab-master/flags/in.png",
     "emoji": "🇮🇳"
   },
   {
@@ -612,7 +612,7 @@
     "name": "Indonesia",
     "capital": "Jakarta",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/id.png",
+    "flagUrl": "/vocab-master/flags/id.png",
     "emoji": "🇮🇩"
   },
   {
@@ -620,7 +620,7 @@
     "name": "Iran",
     "capital": "Tehran",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/ir.png",
+    "flagUrl": "/vocab-master/flags/ir.png",
     "emoji": "🇮🇷"
   },
   {
@@ -628,7 +628,7 @@
     "name": "Iraq",
     "capital": "Baghdad",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/iq.png",
+    "flagUrl": "/vocab-master/flags/iq.png",
     "emoji": "🇮🇶"
   },
   {
@@ -636,7 +636,7 @@
     "name": "Ireland",
     "capital": "Dublin",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/ie.png",
+    "flagUrl": "/vocab-master/flags/ie.png",
     "emoji": "🇮🇪"
   },
   {
@@ -644,7 +644,7 @@
     "name": "Israel",
     "capital": "Jerusalem",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/il.png",
+    "flagUrl": "/vocab-master/flags/il.png",
     "emoji": "🇮🇱"
   },
   {
@@ -652,7 +652,7 @@
     "name": "Italy",
     "capital": "Rome",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/it.png",
+    "flagUrl": "/vocab-master/flags/it.png",
     "emoji": "🇮🇹"
   },
   {
@@ -660,7 +660,7 @@
     "name": "Jamaica",
     "capital": "Kingston",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/jm.png",
+    "flagUrl": "/vocab-master/flags/jm.png",
     "emoji": "🇯🇲"
   },
   {
@@ -668,7 +668,7 @@
     "name": "Japan",
     "capital": "Tokyo",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/jp.png",
+    "flagUrl": "/vocab-master/flags/jp.png",
     "emoji": "🇯🇵"
   },
   {
@@ -676,7 +676,7 @@
     "name": "Jordan",
     "capital": "Amman",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/jo.png",
+    "flagUrl": "/vocab-master/flags/jo.png",
     "emoji": "🇯🇴"
   },
   {
@@ -684,7 +684,7 @@
     "name": "Kazakhstan",
     "capital": "Astana",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/kz.png",
+    "flagUrl": "/vocab-master/flags/kz.png",
     "emoji": "🇰🇿"
   },
   {
@@ -692,7 +692,7 @@
     "name": "Kenya",
     "capital": "Nairobi",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ke.png",
+    "flagUrl": "/vocab-master/flags/ke.png",
     "emoji": "🇰🇪"
   },
   {
@@ -700,7 +700,7 @@
     "name": "Kiribati",
     "capital": "South Tarawa",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/ki.png",
+    "flagUrl": "/vocab-master/flags/ki.png",
     "emoji": "🇰🇮"
   },
   {
@@ -708,7 +708,7 @@
     "name": "Kuwait",
     "capital": "Kuwait City",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/kw.png",
+    "flagUrl": "/vocab-master/flags/kw.png",
     "emoji": "🇰🇼"
   },
   {
@@ -716,7 +716,7 @@
     "name": "Kyrgyzstan",
     "capital": "Bishkek",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/kg.png",
+    "flagUrl": "/vocab-master/flags/kg.png",
     "emoji": "🇰🇬"
   },
   {
@@ -724,7 +724,7 @@
     "name": "Laos",
     "capital": "Vientiane",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/la.png",
+    "flagUrl": "/vocab-master/flags/la.png",
     "emoji": "🇱🇦"
   },
   {
@@ -732,7 +732,7 @@
     "name": "Latvia",
     "capital": "Riga",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/lv.png",
+    "flagUrl": "/vocab-master/flags/lv.png",
     "emoji": "🇱🇻"
   },
   {
@@ -740,7 +740,7 @@
     "name": "Lebanon",
     "capital": "Beirut",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/lb.png",
+    "flagUrl": "/vocab-master/flags/lb.png",
     "emoji": "🇱🇧"
   },
   {
@@ -748,7 +748,7 @@
     "name": "Lesotho",
     "capital": "Maseru",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ls.png",
+    "flagUrl": "/vocab-master/flags/ls.png",
     "emoji": "🇱🇸"
   },
   {
@@ -756,7 +756,7 @@
     "name": "Liberia",
     "capital": "Monrovia",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/lr.png",
+    "flagUrl": "/vocab-master/flags/lr.png",
     "emoji": "🇱🇷"
   },
   {
@@ -764,7 +764,7 @@
     "name": "Libya",
     "capital": "Tripoli",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ly.png",
+    "flagUrl": "/vocab-master/flags/ly.png",
     "emoji": "🇱🇾"
   },
   {
@@ -772,7 +772,7 @@
     "name": "Liechtenstein",
     "capital": "Vaduz",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/li.png",
+    "flagUrl": "/vocab-master/flags/li.png",
     "emoji": "🇱🇮"
   },
   {
@@ -780,7 +780,7 @@
     "name": "Lithuania",
     "capital": "Vilnius",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/lt.png",
+    "flagUrl": "/vocab-master/flags/lt.png",
     "emoji": "🇱🇹"
   },
   {
@@ -788,7 +788,7 @@
     "name": "Luxembourg",
     "capital": "Luxembourg",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/lu.png",
+    "flagUrl": "/vocab-master/flags/lu.png",
     "emoji": "🇱🇺"
   },
   {
@@ -796,7 +796,7 @@
     "name": "Madagascar",
     "capital": "Antananarivo",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/mg.png",
+    "flagUrl": "/vocab-master/flags/mg.png",
     "emoji": "🇲🇬"
   },
   {
@@ -804,7 +804,7 @@
     "name": "Malawi",
     "capital": "Lilongwe",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/mw.png",
+    "flagUrl": "/vocab-master/flags/mw.png",
     "emoji": "🇲🇼"
   },
   {
@@ -812,7 +812,7 @@
     "name": "Malaysia",
     "capital": "Kuala Lumpur",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/my.png",
+    "flagUrl": "/vocab-master/flags/my.png",
     "emoji": "🇲🇾"
   },
   {
@@ -820,7 +820,7 @@
     "name": "Maldives",
     "capital": "Malé",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/mv.png",
+    "flagUrl": "/vocab-master/flags/mv.png",
     "emoji": "🇲🇻"
   },
   {
@@ -828,7 +828,7 @@
     "name": "Mali",
     "capital": "Bamako",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ml.png",
+    "flagUrl": "/vocab-master/flags/ml.png",
     "emoji": "🇲🇱"
   },
   {
@@ -836,7 +836,7 @@
     "name": "Malta",
     "capital": "Valletta",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/mt.png",
+    "flagUrl": "/vocab-master/flags/mt.png",
     "emoji": "🇲🇹"
   },
   {
@@ -844,7 +844,7 @@
     "name": "Marshall Islands",
     "capital": "Majuro",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/mh.png",
+    "flagUrl": "/vocab-master/flags/mh.png",
     "emoji": "🇲🇭"
   },
   {
@@ -852,7 +852,7 @@
     "name": "Mauritania",
     "capital": "Nouakchott",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/mr.png",
+    "flagUrl": "/vocab-master/flags/mr.png",
     "emoji": "🇲🇷"
   },
   {
@@ -860,7 +860,7 @@
     "name": "Mauritius",
     "capital": "Port Louis",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/mu.png",
+    "flagUrl": "/vocab-master/flags/mu.png",
     "emoji": "🇲🇺"
   },
   {
@@ -868,7 +868,7 @@
     "name": "Mexico",
     "capital": "Mexico City",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/mx.png",
+    "flagUrl": "/vocab-master/flags/mx.png",
     "emoji": "🇲🇽"
   },
   {
@@ -876,7 +876,7 @@
     "name": "Micronesia",
     "capital": "Palikir",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/fm.png",
+    "flagUrl": "/vocab-master/flags/fm.png",
     "emoji": "🇫🇲"
   },
   {
@@ -884,7 +884,7 @@
     "name": "Moldova",
     "capital": "Chișinău",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/md.png",
+    "flagUrl": "/vocab-master/flags/md.png",
     "emoji": "🇲🇩"
   },
   {
@@ -892,7 +892,7 @@
     "name": "Monaco",
     "capital": "Monaco",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/mc.png",
+    "flagUrl": "/vocab-master/flags/mc.png",
     "emoji": "🇲🇨"
   },
   {
@@ -900,7 +900,7 @@
     "name": "Mongolia",
     "capital": "Ulaanbaatar",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/mn.png",
+    "flagUrl": "/vocab-master/flags/mn.png",
     "emoji": "🇲🇳"
   },
   {
@@ -908,7 +908,7 @@
     "name": "Montenegro",
     "capital": "Podgorica",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/me.png",
+    "flagUrl": "/vocab-master/flags/me.png",
     "emoji": "🇲🇪"
   },
   {
@@ -916,7 +916,7 @@
     "name": "Morocco",
     "capital": "Rabat",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ma.png",
+    "flagUrl": "/vocab-master/flags/ma.png",
     "emoji": "🇲🇦"
   },
   {
@@ -924,7 +924,7 @@
     "name": "Mozambique",
     "capital": "Maputo",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/mz.png",
+    "flagUrl": "/vocab-master/flags/mz.png",
     "emoji": "🇲🇿"
   },
   {
@@ -932,7 +932,7 @@
     "name": "Myanmar",
     "capital": "Naypyidaw",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/mm.png",
+    "flagUrl": "/vocab-master/flags/mm.png",
     "emoji": "🇲🇲"
   },
   {
@@ -940,7 +940,7 @@
     "name": "Namibia",
     "capital": "Windhoek",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/na.png",
+    "flagUrl": "/vocab-master/flags/na.png",
     "emoji": "🇳🇦"
   },
   {
@@ -948,7 +948,7 @@
     "name": "Nauru",
     "capital": "Yaren",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/nr.png",
+    "flagUrl": "/vocab-master/flags/nr.png",
     "emoji": "🇳🇷"
   },
   {
@@ -956,7 +956,7 @@
     "name": "Nepal",
     "capital": "Kathmandu",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/np.png",
+    "flagUrl": "/vocab-master/flags/np.png",
     "emoji": "🇳🇵"
   },
   {
@@ -964,7 +964,7 @@
     "name": "Netherlands",
     "capital": "Amsterdam",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/nl.png",
+    "flagUrl": "/vocab-master/flags/nl.png",
     "emoji": "🇳🇱"
   },
   {
@@ -972,7 +972,7 @@
     "name": "New Zealand",
     "capital": "Wellington",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/nz.png",
+    "flagUrl": "/vocab-master/flags/nz.png",
     "emoji": "🇳🇿"
   },
   {
@@ -980,7 +980,7 @@
     "name": "Nicaragua",
     "capital": "Managua",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/ni.png",
+    "flagUrl": "/vocab-master/flags/ni.png",
     "emoji": "🇳🇮"
   },
   {
@@ -988,7 +988,7 @@
     "name": "Niger",
     "capital": "Niamey",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ne.png",
+    "flagUrl": "/vocab-master/flags/ne.png",
     "emoji": "🇳🇪"
   },
   {
@@ -996,7 +996,7 @@
     "name": "Nigeria",
     "capital": "Abuja",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ng.png",
+    "flagUrl": "/vocab-master/flags/ng.png",
     "emoji": "🇳🇬"
   },
   {
@@ -1004,7 +1004,7 @@
     "name": "North Korea",
     "capital": "Pyongyang",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/kp.png",
+    "flagUrl": "/vocab-master/flags/kp.png",
     "emoji": "🇰🇵"
   },
   {
@@ -1012,7 +1012,7 @@
     "name": "North Macedonia",
     "capital": "Skopje",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/mk.png",
+    "flagUrl": "/vocab-master/flags/mk.png",
     "emoji": "🇲🇰"
   },
   {
@@ -1020,7 +1020,7 @@
     "name": "Norway",
     "capital": "Oslo",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/no.png",
+    "flagUrl": "/vocab-master/flags/no.png",
     "emoji": "🇳🇴"
   },
   {
@@ -1028,7 +1028,7 @@
     "name": "Oman",
     "capital": "Muscat",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/om.png",
+    "flagUrl": "/vocab-master/flags/om.png",
     "emoji": "🇴🇲"
   },
   {
@@ -1036,7 +1036,7 @@
     "name": "Pakistan",
     "capital": "Islamabad",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/pk.png",
+    "flagUrl": "/vocab-master/flags/pk.png",
     "emoji": "🇵🇰"
   },
   {
@@ -1044,7 +1044,7 @@
     "name": "Palau",
     "capital": "Ngerulmud",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/pw.png",
+    "flagUrl": "/vocab-master/flags/pw.png",
     "emoji": "🇵🇼"
   },
   {
@@ -1052,7 +1052,7 @@
     "name": "Palestine",
     "capital": "Ramallah",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/ps.png",
+    "flagUrl": "/vocab-master/flags/ps.png",
     "emoji": "🇵🇸"
   },
   {
@@ -1060,7 +1060,7 @@
     "name": "Panama",
     "capital": "Panama City",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/pa.png",
+    "flagUrl": "/vocab-master/flags/pa.png",
     "emoji": "🇵🇦"
   },
   {
@@ -1068,7 +1068,7 @@
     "name": "Papua New Guinea",
     "capital": "Port Moresby",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/pg.png",
+    "flagUrl": "/vocab-master/flags/pg.png",
     "emoji": "🇵🇬"
   },
   {
@@ -1076,7 +1076,7 @@
     "name": "Paraguay",
     "capital": "Asunción",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/py.png",
+    "flagUrl": "/vocab-master/flags/py.png",
     "emoji": "🇵🇾"
   },
   {
@@ -1084,7 +1084,7 @@
     "name": "Peru",
     "capital": "Lima",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/pe.png",
+    "flagUrl": "/vocab-master/flags/pe.png",
     "emoji": "🇵🇪"
   },
   {
@@ -1092,7 +1092,7 @@
     "name": "Philippines",
     "capital": "Manila",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/ph.png",
+    "flagUrl": "/vocab-master/flags/ph.png",
     "emoji": "🇵🇭"
   },
   {
@@ -1100,7 +1100,7 @@
     "name": "Poland",
     "capital": "Warsaw",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/pl.png",
+    "flagUrl": "/vocab-master/flags/pl.png",
     "emoji": "🇵🇱"
   },
   {
@@ -1108,7 +1108,7 @@
     "name": "Portugal",
     "capital": "Lisbon",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/pt.png",
+    "flagUrl": "/vocab-master/flags/pt.png",
     "emoji": "🇵🇹"
   },
   {
@@ -1116,7 +1116,7 @@
     "name": "Qatar",
     "capital": "Doha",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/qa.png",
+    "flagUrl": "/vocab-master/flags/qa.png",
     "emoji": "🇶🇦"
   },
   {
@@ -1124,7 +1124,7 @@
     "name": "Republic of the Congo",
     "capital": "Brazzaville",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/cg.png",
+    "flagUrl": "/vocab-master/flags/cg.png",
     "emoji": "🇨🇬"
   },
   {
@@ -1132,7 +1132,7 @@
     "name": "Romania",
     "capital": "Bucharest",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/ro.png",
+    "flagUrl": "/vocab-master/flags/ro.png",
     "emoji": "🇷🇴"
   },
   {
@@ -1140,7 +1140,7 @@
     "name": "Russia",
     "capital": "Moscow",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/ru.png",
+    "flagUrl": "/vocab-master/flags/ru.png",
     "emoji": "🇷🇺"
   },
   {
@@ -1148,7 +1148,7 @@
     "name": "Rwanda",
     "capital": "Kigali",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/rw.png",
+    "flagUrl": "/vocab-master/flags/rw.png",
     "emoji": "🇷🇼"
   },
   {
@@ -1156,7 +1156,7 @@
     "name": "Saint Kitts and Nevis",
     "capital": "Basseterre",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/kn.png",
+    "flagUrl": "/vocab-master/flags/kn.png",
     "emoji": "🇰🇳"
   },
   {
@@ -1164,7 +1164,7 @@
     "name": "Saint Lucia",
     "capital": "Castries",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/lc.png",
+    "flagUrl": "/vocab-master/flags/lc.png",
     "emoji": "🇱🇨"
   },
   {
@@ -1172,7 +1172,7 @@
     "name": "Saint Vincent and the Grenadines",
     "capital": "Kingstown",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/vc.png",
+    "flagUrl": "/vocab-master/flags/vc.png",
     "emoji": "🇻🇨"
   },
   {
@@ -1180,7 +1180,7 @@
     "name": "Samoa",
     "capital": "Apia",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/ws.png",
+    "flagUrl": "/vocab-master/flags/ws.png",
     "emoji": "🇼🇸"
   },
   {
@@ -1188,7 +1188,7 @@
     "name": "San Marino",
     "capital": "San Marino",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/sm.png",
+    "flagUrl": "/vocab-master/flags/sm.png",
     "emoji": "🇸🇲"
   },
   {
@@ -1196,7 +1196,7 @@
     "name": "São Tomé and Príncipe",
     "capital": "São Tomé",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/st.png",
+    "flagUrl": "/vocab-master/flags/st.png",
     "emoji": "🇸🇹"
   },
   {
@@ -1204,7 +1204,7 @@
     "name": "Saudi Arabia",
     "capital": "Riyadh",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/sa.png",
+    "flagUrl": "/vocab-master/flags/sa.png",
     "emoji": "🇸🇦"
   },
   {
@@ -1212,7 +1212,7 @@
     "name": "Senegal",
     "capital": "Dakar",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/sn.png",
+    "flagUrl": "/vocab-master/flags/sn.png",
     "emoji": "🇸🇳"
   },
   {
@@ -1220,7 +1220,7 @@
     "name": "Serbia",
     "capital": "Belgrade",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/rs.png",
+    "flagUrl": "/vocab-master/flags/rs.png",
     "emoji": "🇷🇸"
   },
   {
@@ -1228,7 +1228,7 @@
     "name": "Seychelles",
     "capital": "Victoria",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/sc.png",
+    "flagUrl": "/vocab-master/flags/sc.png",
     "emoji": "🇸🇨"
   },
   {
@@ -1236,7 +1236,7 @@
     "name": "Sierra Leone",
     "capital": "Freetown",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/sl.png",
+    "flagUrl": "/vocab-master/flags/sl.png",
     "emoji": "🇸🇱"
   },
   {
@@ -1244,7 +1244,7 @@
     "name": "Singapore",
     "capital": "Singapore",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/sg.png",
+    "flagUrl": "/vocab-master/flags/sg.png",
     "emoji": "🇸🇬"
   },
   {
@@ -1252,7 +1252,7 @@
     "name": "Slovakia",
     "capital": "Bratislava",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/sk.png",
+    "flagUrl": "/vocab-master/flags/sk.png",
     "emoji": "🇸🇰"
   },
   {
@@ -1260,7 +1260,7 @@
     "name": "Slovenia",
     "capital": "Ljubljana",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/si.png",
+    "flagUrl": "/vocab-master/flags/si.png",
     "emoji": "🇸🇮"
   },
   {
@@ -1268,7 +1268,7 @@
     "name": "Solomon Islands",
     "capital": "Honiara",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/sb.png",
+    "flagUrl": "/vocab-master/flags/sb.png",
     "emoji": "🇸🇧"
   },
   {
@@ -1276,7 +1276,7 @@
     "name": "Somalia",
     "capital": "Mogadishu",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/so.png",
+    "flagUrl": "/vocab-master/flags/so.png",
     "emoji": "🇸🇴"
   },
   {
@@ -1284,7 +1284,7 @@
     "name": "South Africa",
     "capital": "Pretoria",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/za.png",
+    "flagUrl": "/vocab-master/flags/za.png",
     "emoji": "🇿🇦"
   },
   {
@@ -1292,7 +1292,7 @@
     "name": "South Korea",
     "capital": "Seoul",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/kr.png",
+    "flagUrl": "/vocab-master/flags/kr.png",
     "emoji": "🇰🇷"
   },
   {
@@ -1300,7 +1300,7 @@
     "name": "South Sudan",
     "capital": "Juba",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ss.png",
+    "flagUrl": "/vocab-master/flags/ss.png",
     "emoji": "🇸🇸"
   },
   {
@@ -1308,7 +1308,7 @@
     "name": "Spain",
     "capital": "Madrid",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/es.png",
+    "flagUrl": "/vocab-master/flags/es.png",
     "emoji": "🇪🇸"
   },
   {
@@ -1316,7 +1316,7 @@
     "name": "Sri Lanka",
     "capital": "Sri Jayawardenepura Kotte",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/lk.png",
+    "flagUrl": "/vocab-master/flags/lk.png",
     "emoji": "🇱🇰"
   },
   {
@@ -1324,7 +1324,7 @@
     "name": "Sudan",
     "capital": "Khartoum",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/sd.png",
+    "flagUrl": "/vocab-master/flags/sd.png",
     "emoji": "🇸🇩"
   },
   {
@@ -1332,7 +1332,7 @@
     "name": "Suriname",
     "capital": "Paramaribo",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/sr.png",
+    "flagUrl": "/vocab-master/flags/sr.png",
     "emoji": "🇸🇷"
   },
   {
@@ -1340,7 +1340,7 @@
     "name": "Sweden",
     "capital": "Stockholm",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/se.png",
+    "flagUrl": "/vocab-master/flags/se.png",
     "emoji": "🇸🇪"
   },
   {
@@ -1348,7 +1348,7 @@
     "name": "Switzerland",
     "capital": "Bern",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/ch.png",
+    "flagUrl": "/vocab-master/flags/ch.png",
     "emoji": "🇨🇭"
   },
   {
@@ -1356,7 +1356,7 @@
     "name": "Syria",
     "capital": "Damascus",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/sy.png",
+    "flagUrl": "/vocab-master/flags/sy.png",
     "emoji": "🇸🇾"
   },
   {
@@ -1364,7 +1364,7 @@
     "name": "Tajikistan",
     "capital": "Dushanbe",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/tj.png",
+    "flagUrl": "/vocab-master/flags/tj.png",
     "emoji": "🇹🇯"
   },
   {
@@ -1372,7 +1372,7 @@
     "name": "Tanzania",
     "capital": "Dodoma",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/tz.png",
+    "flagUrl": "/vocab-master/flags/tz.png",
     "emoji": "🇹🇿"
   },
   {
@@ -1380,7 +1380,7 @@
     "name": "Thailand",
     "capital": "Bangkok",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/th.png",
+    "flagUrl": "/vocab-master/flags/th.png",
     "emoji": "🇹🇭"
   },
   {
@@ -1388,7 +1388,7 @@
     "name": "Timor-Leste",
     "capital": "Dili",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/tl.png",
+    "flagUrl": "/vocab-master/flags/tl.png",
     "emoji": "🇹🇱"
   },
   {
@@ -1396,7 +1396,7 @@
     "name": "Togo",
     "capital": "Lomé",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/tg.png",
+    "flagUrl": "/vocab-master/flags/tg.png",
     "emoji": "🇹🇬"
   },
   {
@@ -1404,7 +1404,7 @@
     "name": "Tonga",
     "capital": "Nuku'alofa",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/to.png",
+    "flagUrl": "/vocab-master/flags/to.png",
     "emoji": "🇹🇴"
   },
   {
@@ -1412,7 +1412,7 @@
     "name": "Trinidad and Tobago",
     "capital": "Port of Spain",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/tt.png",
+    "flagUrl": "/vocab-master/flags/tt.png",
     "emoji": "🇹🇹"
   },
   {
@@ -1420,7 +1420,7 @@
     "name": "Tunisia",
     "capital": "Tunis",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/tn.png",
+    "flagUrl": "/vocab-master/flags/tn.png",
     "emoji": "🇹🇳"
   },
   {
@@ -1428,7 +1428,7 @@
     "name": "Türkiye",
     "capital": "Ankara",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/tr.png",
+    "flagUrl": "/vocab-master/flags/tr.png",
     "emoji": "🇹🇷"
   },
   {
@@ -1436,7 +1436,7 @@
     "name": "Turkmenistan",
     "capital": "Ashgabat",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/tm.png",
+    "flagUrl": "/vocab-master/flags/tm.png",
     "emoji": "🇹🇲"
   },
   {
@@ -1444,7 +1444,7 @@
     "name": "Tuvalu",
     "capital": "Funafuti",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/tv.png",
+    "flagUrl": "/vocab-master/flags/tv.png",
     "emoji": "🇹🇻"
   },
   {
@@ -1452,7 +1452,7 @@
     "name": "Uganda",
     "capital": "Kampala",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/ug.png",
+    "flagUrl": "/vocab-master/flags/ug.png",
     "emoji": "🇺🇬"
   },
   {
@@ -1460,7 +1460,7 @@
     "name": "Ukraine",
     "capital": "Kyiv",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/ua.png",
+    "flagUrl": "/vocab-master/flags/ua.png",
     "emoji": "🇺🇦"
   },
   {
@@ -1468,7 +1468,7 @@
     "name": "United Arab Emirates",
     "capital": "Abu Dhabi",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/ae.png",
+    "flagUrl": "/vocab-master/flags/ae.png",
     "emoji": "🇦🇪"
   },
   {
@@ -1476,7 +1476,7 @@
     "name": "United Kingdom",
     "capital": "London",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/gb.png",
+    "flagUrl": "/vocab-master/flags/gb.png",
     "emoji": "🇬🇧"
   },
   {
@@ -1484,7 +1484,7 @@
     "name": "United States",
     "capital": "Washington, D.C.",
     "continent": "North America",
-    "flagUrl": "https://flagcdn.com/w320/us.png",
+    "flagUrl": "/vocab-master/flags/us.png",
     "emoji": "🇺🇸"
   },
   {
@@ -1492,7 +1492,7 @@
     "name": "Uruguay",
     "capital": "Montevideo",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/uy.png",
+    "flagUrl": "/vocab-master/flags/uy.png",
     "emoji": "🇺🇾"
   },
   {
@@ -1500,7 +1500,7 @@
     "name": "Uzbekistan",
     "capital": "Tashkent",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/uz.png",
+    "flagUrl": "/vocab-master/flags/uz.png",
     "emoji": "🇺🇿"
   },
   {
@@ -1508,7 +1508,7 @@
     "name": "Vanuatu",
     "capital": "Port Vila",
     "continent": "Oceania",
-    "flagUrl": "https://flagcdn.com/w320/vu.png",
+    "flagUrl": "/vocab-master/flags/vu.png",
     "emoji": "🇻🇺"
   },
   {
@@ -1516,7 +1516,7 @@
     "name": "Vatican City",
     "capital": "Vatican City",
     "continent": "Europe",
-    "flagUrl": "https://flagcdn.com/w320/va.png",
+    "flagUrl": "/vocab-master/flags/va.png",
     "emoji": "🇻🇦"
   },
   {
@@ -1524,7 +1524,7 @@
     "name": "Venezuela",
     "capital": "Caracas",
     "continent": "South America",
-    "flagUrl": "https://flagcdn.com/w320/ve.png",
+    "flagUrl": "/vocab-master/flags/ve.png",
     "emoji": "🇻🇪"
   },
   {
@@ -1532,7 +1532,7 @@
     "name": "Vietnam",
     "capital": "Hanoi",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/vn.png",
+    "flagUrl": "/vocab-master/flags/vn.png",
     "emoji": "🇻🇳"
   },
   {
@@ -1540,7 +1540,7 @@
     "name": "Yemen",
     "capital": "Sana'a",
     "continent": "Asia",
-    "flagUrl": "https://flagcdn.com/w320/ye.png",
+    "flagUrl": "/vocab-master/flags/ye.png",
     "emoji": "🇾🇪"
   },
   {
@@ -1548,7 +1548,7 @@
     "name": "Zambia",
     "capital": "Lusaka",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/zm.png",
+    "flagUrl": "/vocab-master/flags/zm.png",
     "emoji": "🇿🇲"
   },
   {
@@ -1556,7 +1556,7 @@
     "name": "Zimbabwe",
     "capital": "Harare",
     "continent": "Africa",
-    "flagUrl": "https://flagcdn.com/w320/zw.png",
+    "flagUrl": "/vocab-master/flags/zw.png",
     "emoji": "🇿🇼"
   }
 ]

@@ -20,10 +20,6 @@ export const loadAllData = async () => {
         countryCapitalData = countryCapital.default;
         countriesFlagData = countriesFlag.default;
 
-        console.log('Hello from dataService.js');
-
-        console.log(countriesFlag)
-
         return { synonymsData, antonymsData, oneWordData, countryCapitalData, countriesFlag };
     } catch (error) {
         console.error('Error loading data:', error);
