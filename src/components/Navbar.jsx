@@ -1,9 +1,8 @@
-// components/Navbar.jsx
 import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, GraduationCap } from 'lucide-react';
+import { GraduationCap, Menu, X, Sun, Moon } from 'lucide-react';
 
-const Navbar = () => {
+const Navbar = ({ toggleDarkMode, darkMode }) => {
     const [isOpen, setIsOpen] = useState(false);
     const location = useLocation();
 
@@ -14,6 +13,7 @@ const Navbar = () => {
         { name: 'Vocabulary', path: 'vocab-master/vocabulary' },
         { name: 'Idioms & Phrases', path: 'vocab-master/idioms-phrases' },
         { name: 'Country Capital', path: 'vocab-master/country-capital' },
+        { name: 'Country Flags', path: 'vocab-master/country-flags' },
         { name: 'About', path: 'vocab-master/about' },
     ];
 
@@ -25,7 +25,7 @@ const Navbar = () => {
     };
 
     return (
-        <nav className="bg-gray-800 border-b border-gray-700">
+        <nav className="bg-gray-800 dark:bg-gray-900 border-b border-gray-700 transition-colors duration-300">
             <div className="container mx-auto px-4">
                 <div className="flex items-center justify-between h-16">
                     {/* Logo */}
@@ -42,22 +42,40 @@ const Navbar = () => {
                                 to={item.path}
                                 className={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${
                                     isActive(item.path)
-                                        ? 'bg-gray-900 text-white'
+                                        ? 'bg-gray-900 dark:bg-gray-700 text-white'
                                         : 'text-gray-300 hover:bg-gray-700 hover:text-white'
                                 }`}
                             >
                                 {item.name}
                             </Link>
                         ))}
+
+                        {/* Dark Mode Toggle */}
+                        <button
+                            onClick={toggleDarkMode}
+                            className="ml-2 p-2 rounded-md text-gray-300 hover:bg-gray-700 hover:text-white transition-colors"
+                            aria-label="Toggle dark mode"
+                        >
+                            {darkMode ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
+                        </button>
                     </div>
 
                     {/* Mobile menu button */}
-                    <button
-                        onClick={() => setIsOpen(!isOpen)}
-                        className="md:hidden inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none"
-                    >
-                        {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
-                    </button>
+                    <div className="flex items-center space-x-2 md:hidden">
+                        <button
+                            onClick={toggleDarkMode}
+                            className="p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 transition-colors"
+                            aria-label="Toggle dark mode"
+                        >
+                            {darkMode ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
+                        </button>
+                        <button
+                            onClick={() => setIsOpen(!isOpen)}
+                            className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none"
+                        >
+                            {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+                        </button>
+                    </div>
                 </div>
 
                 {/* Mobile Navigation */}
@@ -71,7 +89,7 @@ const Navbar = () => {
                                     onClick={() => setIsOpen(false)}
                                     className={`block px-3 py-2 rounded-md text-base font-medium ${
                                         isActive(item.path)
-                                            ? 'bg-gray-900 text-white'
+                                            ? 'bg-gray-900 dark:bg-gray-700 text-white'
                                             : 'text-gray-300 hover:bg-gray-700 hover:text-white'
                                     }`}
                                 >
